@@ -1,0 +1,7 @@
+python-dotenv==1.0.0
+pycryptodome
+spotipy==2.22.1
+numpy==1.25
+pandas==2.1.3
+scikit-learn==1.3.2
+sklearn==0.0

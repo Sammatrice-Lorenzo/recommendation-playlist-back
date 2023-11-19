@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+    recommendation-playlist-back:
+        container_name: back-python-playlist
+        build:
+            context: .
+            dockerfile: './Dockerfile'
+        ports: 
+            - "5000:5000"
+        volumes:
+            - './:/app'
