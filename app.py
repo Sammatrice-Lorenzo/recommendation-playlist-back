@@ -6,28 +6,39 @@ def main():
     playlists = [
         {
             'playlist': 'https://open.spotify.com/playlist/37i9dQZF1E35x0QGP9VzOh',
-            'liked': 1
+            'type': 'walk',
+            'movement': [0.5, 0.6, 0.7],
         },
         {
-            'playlist': 'https://open.spotify.com/playlist/4KHJvDrRTzeI0dKJN1CYbc',
-            'liked': 1
+            'playlist': 'https://open.spotify.com/playlist/37i9dQZF1EIesbtlhD4Mon',
+            'type': 'sport',
+            'movement': [0.8, 0.9, 1],
         },
         {
-            'playlist': 'https://open.spotify.com/playlist/5Cxad6lnpi2e1RI6MNZ3MU',
-            'liked': 1
+            'playlist': 'https://open.spotify.com/playlist/37i9dQZF1EIggeYqvv7G8A',
+            'type': 'chill',
+            'movement': [0.2, 0.3 , 0.4],
         },
         {
-            'playlist': 'https://open.spotify.com/playlist/2kiAjbrOmBt770igmhQYsM?si=X4w0HaDhRnSP2HTnd7oJNg',
-            'liked': 0
+            'playlist': 'https://open.spotify.com/playlist/37i9dQZF1EIcVZUMP507A4',
+            'type': 'sport',
+            'movement': [0.8, 0.9, 1],
         },
         {
-            'playlist': 'https://open.spotify.com/playlist/7CbFoucdKwMXDrKpFt0bE1',
-            'liked': 0
+            'playlist': 'https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw',
+            'type': 'depressed',
+            'movement': [0],
         },
         {
-            'playlist': 'https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5',
-            'liked': 1
-        }
+            'playlist': 'https://open.spotify.com/playlist/37i9dQZF1EIcZUgkA3BSiL',
+            'type': 'depressed',
+            'movement': [0],
+        },
+        {
+            'playlist': 'https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp',
+            'type': 'sleep',
+            'movement': [0, 0.2]
+        },
     ]
 
     dataset.create_data_set(playlists)

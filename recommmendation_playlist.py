@@ -1,66 +1,72 @@
 import pandas as pd
-from sklearn.neighbors import NearestNeighbors
+import numpy as np
+from pandas import DataFrame
+import pickle
+import warnings
 
-def recommend_playlist(user_movement, user_liked_features, weights, data):
-    filtered_data = data[data['movement'] == user_movement]
+with warnings.catch_warnings():
+    warnings.simplefilter("ignore", category=FutureWarning)
 
-    recommendation_features = filtered_data[['danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo']]
 
-    weighted_features = recommendation_features.copy()
-    for feature in weights:
-        weighted_features[feature] *= weights[feature]
-
-    knn_model = NearestNeighbors(n_neighbors=5)
-    knn_model.fit(weighted_features)
-
-    user_liked_df = pd.DataFrame([user_liked_features], columns=['danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo'])
-
-    distances, indices = knn_model.kneighbors(user_liked_df, n_neighbors=5)
-    recommended_indices = indices.flatten()
-
-    return data.iloc[recommended_indices][['name', 'artist', 'genres', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature', 'movement', 'liked']]
-
-user_movement = 0.5
 data = pd.read_csv('./data/train_data.csv')
 
-# user_liked_features = {
-#     'danceability': 0.671,
-#     'energy': 0.876,
-#     'key': 7,
-#     'loudness': -5.681,
-#     'mode': 0,
-#     'speechiness': 0.0352,
-#     'acousticness': 0.12,
-#     'instrumentalness': 0.188,
-#     'liveness': 0.0823,
-#     'valence': 0.964,
-#     'tempo': 129.998,
-# }
+def mouvement_user(data_mouvement: np) -> float:
+    with open('./ModelPositionMovement/ModelRunOrWalk', 'rb') as file:
+        model_mouvement_user = pickle.load(file)
 
-user_liked_features = {
-    'danceability': 0.555,
-    'energy': 0.613,
-    'key': 4,
-    'loudness': -6.746,
-    'mode': 0,
-    'speechiness': 0.0368,
-    'acousticness': 0.0619,
-    'instrumentalness': 0.0,
-    'liveness': 0.198,
-    'valence': 0.0988,
-    'tempo': 120.922,
-}
+    sequence_mouvements = []
+    for data in data_mouvement:
+        input_data = np.array([data])
 
-weights = {
-    'danceability': 1.5,
-    'energy': 1.0,
-    'loudness': 1.5,
-}
-# weights = {
-#     'danceability': 1.5,
-#     'energy': 10.0,
-#     'loudness': 2.5,
-# }
+        result = model_mouvement_user.predict(input_data)
+        sequence_mouvements.append(result)
 
-recommended_tracks = recommend_playlist(user_movement, user_liked_features, weights, data)
-print(recommended_tracks)
+    total_mouvements = len(sequence_mouvements)
+    count_mouvement = sum(prediction[0] == 1 for prediction in sequence_mouvements)
+    count_not_mouvement = total_mouvements - count_mouvement
+
+    returned_value = 0
+
+    average_mouvement = round(count_mouvement / total_mouvements)
+    average_not_mouvement = round(count_not_mouvement / total_mouvements)
+
+    if count_mouvement / total_mouvements >= 0.8:
+        returned_value = 1
+    elif (average_mouvement <= 0.5 and average_not_mouvement <= 0.5):
+        returned_value = 0.5
+    elif (average_mouvement >= 0.3 and 0.3 >= average_not_mouvement <= 0.7):
+        returned_value = 0.2
+    elif (average_mouvement >= 0.4 and average_not_mouvement <= 0.6):
+        returned_value = 0.4
+    elif (average_mouvement >= 0.6 and average_not_mouvement <= 0.4):
+        returned_value = 0.6
+
+    print(count_mouvement / total_mouvements)
+    print(count_not_mouvement / total_mouvements)
+
+    return returned_value
+
+def recommend_playlist(data_movement: np, data: DataFrame):
+    user_movement = mouvement_user(data_movement)
+    print(user_movement)
+
+    recommended_playlists = []
+    if user_movement == 1:
+        recommended_playlists =  data[data['type'] == 'sport']
+    elif user_movement == 0:
+        recommended_playlists = data[data['type'] == 'depressed']
+    else: 
+        if 0.2 <= user_movement <= 0.6:
+            data['movement'] = data['movement'].apply(lambda x: eval(x) if isinstance(x, str) else x)
+            filtered_data = data[data['movement'].apply(lambda x: user_movement in x if isinstance(x, list) else False)]
+            recommended_playlists = filtered_data[(filtered_data['energy'] >= user_movement) & (filtered_data['loudness'] <= user_movement)]
+    
+    return recommended_playlists.sample(n=10)
+
+
+# data_run = pd.read_csv('./dataset.csv').iloc[1:756, 5:11]
+data_run = pd.read_csv('./data/dataset_movement.csv').iloc[756:1556, 5:11]
+data_run = data_run.to_numpy()
+
+print(recommend_playlist(data_movement=data_run, data=data))
+
