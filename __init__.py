@@ -1,6 +1,18 @@
-from creation_data import Dataset
+from builder.creation_data import Dataset
+from controller.recommendation import Recommendation
+import flask
+import os
+from flask_cors import CORS
+from dotenv import load_dotenv
 
-def main():
+
+app: flask = flask.Flask(__name__)
+load_dotenv()
+
+
+def build_data_set() -> None:
+    """Si vous devez créer la dataset appeler la function dans __main__
+    """
     dataset = Dataset()
 
     playlists = [
@@ -44,4 +56,10 @@ def main():
     dataset.create_data_set(playlists)
 
 if __name__ == "__main__":
-    main()
+
+    CORS(app, resources={r"/recommendation": {"origins": os.getenv('URL_FRONT')}})
+
+    Recommendation(app=app)
+    app.run(debug=True, host='0.0.0.0', port=5000)
+
+    
