@@ -3,6 +3,7 @@ from controller.recommendation import Recommendation
 import flask
 import os
 from flask_cors import CORS
+from flask_sslify import SSLify
 from dotenv import load_dotenv
 
 
@@ -60,6 +61,10 @@ if __name__ == "__main__":
     CORS(app, resources={r"/recommendation": {"origins": os.getenv('URL_FRONT')}})
 
     Recommendation(app=app)
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    context = ('config/ssl/cert.pem', 'config/ssl/key.pem')
+    sslify = SSLify(app, permanent=True)
 
-    
+    app.run(debug=True, host='0.0.0.0', port=5000, ssl_context=context)
+    # http_server = WSGIServer(('0.0.0.0', 5000), app, keyfile='config/ssl/key.pem', certfile='config/ssl/cert.pem')
+    # http_server.serve_forever()
+

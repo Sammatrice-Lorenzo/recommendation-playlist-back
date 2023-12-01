@@ -63,6 +63,8 @@ def recommend_playlist(data_movement: np, data: DataFrame) -> DataFrame:
             filtered_data = data[data['movement'].apply(lambda x: user_movement in x if isinstance(x, list) else False)]
             recommended_playlists = filtered_data[(filtered_data['energy'] >= user_movement) & (filtered_data['loudness'] <= user_movement)]
 
+    recommended_playlists = recommended_playlists[['name', 'artist', 'type']]
+
     return recommended_playlists.sample(n=10)
 
 # data_run = pd.read_csv('data/dataset_mouvement.csv').iloc[1:756, 5:11]
