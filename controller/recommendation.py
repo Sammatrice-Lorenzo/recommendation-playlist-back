@@ -41,11 +41,3 @@ class Recommendation:
             print("Error:", str(e))
 
             return flask.jsonify({'Une erreur est survenue': str(e)}), 500
-
-
-        # movements_user: np = np.array([list(item.values()) for item in movements_user])
-
-
-        # playlist_user: pd.DataFrame = recommend_playlist(movements_user, data)
-
-        # return flask.jsonify(playlist_user.to_json()), 200
