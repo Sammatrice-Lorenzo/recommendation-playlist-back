@@ -31,12 +31,25 @@ class Recommendation:
             movement_to_numpy: np = np.array(movement_to_numpy)
             print(movement_to_numpy)
 
-
             playlist_user: pd.DataFrame = recommend_playlist(movement_to_numpy, data)
 
-            print(playlist_user.to_json())
-            return playlist_user.to_json(), 200
+            playlist_returned: list = []
+            playlist_user_updated: list = []
 
+            for row_track_playlist in playlist_user.iterrows():
+                track: dict[str, str] = {
+                    'name': row_track_playlist[1]['name'],
+                    'artist': row_track_playlist[1]['artist'] 
+                }
+                playlist_user_updated.append(track)
+
+            playlist: dict[str, dict] = {
+                'tracks': playlist_user_updated,
+                'type': playlist_user['type'].iloc[0]
+            }
+            playlist_returned.append(playlist)
+
+            return flask.jsonify(playlist_returned), 200
         except Exception as e:
             print("Error:", str(e))
 
