@@ -1,282 +1,401 @@
-name,artist,genres,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,movement,liked
-Morto Mai,Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.645,0.813,7,-5.448,0,0.107,0.121,0.0,0.127,0.551,82.676,145640,4,0.5,1
-Mancanze Affettive (feat. Geolier),Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.651,0.72,7,-7.109,1,0.135,0.193,0.0,0.119,0.325,135.616,231320,4,0.5,1
-Giulia,BLANCO,"['italian hip hop', 'italian pop']",0.6,0.841,1,-3.55,1,0.0811,0.146,0.0,0.126,0.488,163.856,193592,4,0.5,1
-VETRI NERI,AVA,"['italian hip hop', 'trap italiana']",0.754,0.767,6,-4.98,1,0.0594,0.0763,4.79e-05,0.112,0.529,134.084,164776,4,0.5,1
-COME VUOI,Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.756,0.631,8,-5.297,0,0.0502,0.13,0.0,0.0649,0.896,130.052,172615,4,0.8,1
-SONNY - city of god,Emis Killa,"['italian hip hop', 'italian pop']",0.814,0.639,6,-7.017,0,0.113,0.371,0.0,0.0859,0.414,123.859,190520,4,0.5,1
-Whip (feat. YOVNGCHIMI),Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.781,0.611,5,-4.548,0,0.183,0.121,0.0,0.256,0.347,126.059,153017,4,0.5,1
-MOLOTOV,Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.613,0.96,5,-4.343,0,0.0542,0.265,0.0,0.24,0.669,159.98,160205,4,0.8,1
-Red Light,Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.558,0.624,4,-6.567,1,0.0439,0.0678,0.0,0.0746,0.574,66.512,167867,4,0.5,1
-Capri Sun,Capo Plaza,"['italian hip hop', 'italian pop', 'trap italiana']",0.683,0.852,0,-2.755,1,0.0636,0.0454,0.0,0.246,0.448,93.068,199680,4,0.5,1
-Arai (feat. Capo Plaza),Medy,"['italian hip hop', 'trap italiana']",0.816,0.735,4,-4.809,0,0.101,0.0653,0.0,0.126,0.675,127.988,181668,4,0.5,1
-2 SECONDI,Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.66,0.755,9,-5.96,0,0.164,0.293,0.0,0.055,0.605,120.035,149000,4,0.5,1
-SENZ'ANIMA - nikita,Emis Killa,"['italian hip hop', 'italian pop']",0.489,0.697,9,-5.41,0,0.173,0.225,0.0,0.115,0.532,97.243,193453,3,0.5,1
-Arsenico,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.716,0.699,7,-5.663,1,0.252,0.404,0.0,0.115,0.238,99.889,183321,4,0.5,1
-BUONANOTTE,Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.531,0.514,8,-12.734,1,0.424,0.879,1.27e-06,0.111,0.571,85.854,220299,4,0.5,1
-Cookies N' Cream (feat. ANNA & Sfera Ebbasta),Guè,"['italian hip hop', 'italian pop']",0.572,0.66,9,-5.375,1,0.244,0.37,0.0,0.323,0.581,123.691,201845,5,0.5,1
-"BON TON (feat. Lazza, Blanco, Sfera Ebbasta & Michelangelo)",Drillionaire,['italian hip hop'],0.676,0.81,11,-5.209,1,0.0411,0.0815,1.92e-06,0.154,0.656,129.986,238534,4,0.5,1
-Anima Tormentata,BLANCO,"['italian hip hop', 'italian pop']",0.339,0.801,7,-4.762,0,0.2,0.0551,0.0,0.118,0.202,93.926,176100,4,0.5,1
-NESSUNO (feat. Geolier),Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.79,0.646,11,-5.166,0,0.191,0.0486,0.0,0.139,0.169,101.253,148452,4,0.5,1
-BIG BANG - upside down,Emis Killa,"['italian hip hop', 'italian pop']",0.766,0.577,8,-9.462,1,0.163,0.221,0.0,0.0991,0.296,120.076,198253,4,0.5,1
-Soli (feat. Tiago PZK & Rvssian),Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.61,0.742,10,-7.122,0,0.336,0.177,0.000254,0.176,0.382,214.047,183896,4,0.5,1
-PARAFULMINI (con Bresh & Fabri Fibra),Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.785,0.774,5,-6.028,1,0.215,0.179,0.0,0.148,0.573,110.027,208909,4,0.5,1
-Léon (The Professional),Guè,"['italian hip hop', 'italian pop']",0.676,0.833,7,-4.464,1,0.153,0.327,6.84e-06,0.412,0.299,95.047,162519,4,0.5,1
-Outro Purgatorio,Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.623,0.794,1,-6.304,1,0.265,0.141,0.0,0.137,0.358,89.495,284240,4,0.5,1
-Fotocopia,BLANCO,"['italian hip hop', 'italian pop']",0.497,0.624,2,-6.168,0,0.039,0.26,0.0,0.575,0.194,82.138,202976,3,0.5,1
-CHIAGNE (feat. Lazza & Takagi & Ketra),Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.716,0.737,6,-5.831,0,0.0578,0.115,0.0,0.0922,0.584,131.947,179864,4,0.5,1
-ALBICOCCA - lolita,Emis Killa,"['italian hip hop', 'italian pop']",0.753,0.705,10,-5.083,1,0.288,0.372,0.0,0.0917,0.667,85.218,162733,4,0.5,1
-Diversi,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.611,0.649,1,-6.202,0,0.323,0.333,0.0,0.158,0.316,158.036,176065,4,0.5,1
-CATTIVE INTENZIONI (feat. Salmo),Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.761,0.84,1,-3.278,1,0.275,0.174,0.0,0.129,0.579,98.055,168742,4,0.5,1
-Mollami Pt.2,Guè,"['italian hip hop', 'italian pop']",0.757,0.805,6,-4.84,0,0.0553,0.0802,2.93e-05,0.118,0.848,99.997,155134,4,0.8,1
-PENSAVA,Icy Subzero,['italian hip hop'],0.699,0.755,8,-5.421,0,0.119,0.415,0.00493,0.27,0.555,102.013,145873,4,0.5,1
-Lacrime Di Piombo,BLANCO,"['italian hip hop', 'italian pop']",0.587,0.392,4,-5.607,1,0.0325,0.739,0.0,0.0829,0.345,124.08,196694,4,0.5,1
-Mamma Mia,Sfera Ebbasta,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']",0.762,0.609,8,-5.934,0,0.0369,0.042,2.78e-06,0.25,0.266,99.971,166796,4,0.5,1
-ATTORI DI STRADA - ragazzi fuori,Emis Killa,"['italian hip hop', 'italian pop']",0.812,0.701,6,-6.552,0,0.231,0.161,0.0,0.209,0.197,130.069,210453,4,0.5,1
-Non è Easy,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.878,0.582,10,-5.571,0,0.195,0.00835,0.0,0.122,0.239,129.068,164657,4,0.5,1
-BASTAVA LA METÀ (feat. Gaia & Guè),Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.654,0.766,2,-5.051,1,0.239,0.183,0.0,0.376,0.572,175.991,195476,4,0.5,1
-Angelo All'Inferno (feat. Salmo & Federica Abbate),Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.573,0.798,7,-7.527,0,0.225,0.309,0.0,0.0841,0.0816,89.575,173040,4,0.5,1
-Free (feat. Marracash & Rkomi),Guè,"['italian hip hop', 'italian pop']",0.682,0.648,0,-6.666,1,0.358,0.457,0.0,0.356,0.687,78.312,190587,4,0.5,1
-Un Briciolo Di Allegria (con MINA),BLANCO,"['italian hip hop', 'italian pop']",0.617,0.707,2,-4.31,1,0.0399,0.467,0.0,0.0481,0.392,91.925,207615,4,0.5,1
-Non Fare Così,Capo Plaza,"['italian hip hop', 'italian pop', 'trap italiana']",0.673,0.53,4,-9.074,0,0.0637,0.384,0.0,0.0594,0.43,122.074,192787,4,0.5,1
-PACINO - the godfather,Emis Killa,"['italian hip hop', 'italian pop']",0.583,0.804,3,-8.695,0,0.169,0.294,0.0,0.316,0.247,115.289,122427,4,0.5,1
-Parliamo,Luchè,"['italian hip hop', 'italian pop', 'rap napoletano']",0.743,0.604,8,-6.589,1,0.0376,0.109,0.0,0.0871,0.525,140.073,196714,4,0.5,1
-BELLA FREGATURA,Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.626,0.664,8,-5.745,1,0.306,0.109,0.0,0.0959,0.414,167.838,174103,4,0.5,1
-DESOLÉ (feat. Rhove & Geolier),Drillionaire,['italian hip hop'],0.613,0.779,1,-4.592,0,0.0352,0.0267,0.0,0.281,0.266,103.006,165491,4,0.5,1
-Prefissi,Guè,"['italian hip hop', 'italian pop']",0.536,0.8,5,-5.81,1,0.217,0.512,0.0,0.383,0.747,81.721,195662,4,0.5,1
-ALIBI,Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.758,0.679,0,-4.736,1,0.0804,0.272,0.0,0.0915,0.566,113.109,178052,4,0.5,1
-RICCHEZZA,Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.644,0.766,8,-5.032,1,0.305,0.394,0.0,0.1,0.122,59.178,184000,4,0.5,1
-MC DRIVE - la haine,Emis Killa,"['italian hip hop', 'italian pop']",0.834,0.729,2,-4.011,1,0.278,0.147,0.0,0.0445,0.52,89.99,180000,4,0.5,1
-Non lo Sai,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.585,0.678,0,-6.851,0,0.0888,0.106,0.0,0.139,0.162,127.959,228342,4,0.5,1
-NON HO SONNO,Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.815,0.712,1,-4.546,1,0.0703,0.244,0.0,0.148,0.549,99.023,176715,4,0.5,1
-Move Your Body (Future House),Tchami,"['deep groove house', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'progressive house']",0.818,0.87,9,-5.162,1,0.0493,0.00424,0.196,0.0429,0.741,123.999,219429,4,0.5,1
-Public Safety,Badjokes,"['bass house', 'bassline']",0.76,0.795,2,-5.976,1,0.073,0.091,0.811,0.209,0.155,128.0,213750,4,0.5,1
-House All The Time,Biscits,"['bass house', 'house', 'tech house', 'uk dance', 'uk tech house']",0.788,0.877,5,-8.142,0,0.106,0.144,0.411,0.331,0.685,126.994,164000,4,0.5,1
-The Power,Matias Sundblad,['house argentino'],0.809,0.947,7,-6.747,1,0.0612,0.00747,0.719,0.112,0.94,124.009,444337,4,0.8,1
-Half Faces (Lacchesi Remix),Baraka,[],0.724,0.994,10,-6.895,0,0.062,0.0157,0.791,0.144,0.395,150.006,340523,4,0.8,1
-Bodysnatcher,Spektre,"['dark techno', 'raw techno']",0.628,0.956,1,-8.679,0,0.051,0.00103,0.828,0.315,0.376,133.979,231115,4,0.8,1
-"Doo Uap, Doo Uap, Doo Uap - Bart & Baker Remix",Gabin,"['electro jazz', 'jazztronica', 'nu jazz']",0.745,0.618,0,-9.026,0,0.0727,0.124,0.775,0.0835,0.367,121.051,283932,4,0.5,1
-Nexus - Danny Freakazoid Remix,DR. KUCHO!,[],0.551,0.404,4,-12.107,0,0.24,0.000655,0.91,0.0722,0.0788,128.01,427969,4,0.5,1
-Singing in the Rain (Love Baby),Betina Bager,[],0.725,0.875,0,-5.68,1,0.0673,0.107,0.657,0.187,0.676,122.015,276147,4,0.5,1
-Other Side,Azzecca,[],0.768,0.846,9,-6.469,1,0.0478,0.00411,0.769,0.0998,0.139,124.981,244338,4,0.5,1
-"1, 2, 3, 4 (David Penn Remix)",César de Melero,[],0.81,0.571,9,-8.09,0,0.113,0.0215,0.054,0.194,0.305,125.009,201750,4,0.5,1
-PURA VIDA,HI-LO,"['dutch house', 'electro house', 'house']",0.789,0.993,7,-5.843,1,0.044,0.0686,0.923,0.112,0.0343,130.006,234721,4,0.8,1
-Main Ingredients,Matroda,"['bass house', 'electro house', 'tech house']",0.795,0.996,6,-4.714,0,0.0855,0.000231,0.817,0.0461,0.592,126.001,192381,4,0.8,1
-YDK,Klaudia Gawlas,"['acid techno', 'dark techno', 'deep minimal techno']",0.633,0.869,9,-9.408,0,0.048,0.00152,0.923,0.112,0.0785,140.01,372085,4,0.5,1
-Sex and the Machine,Pleasurekraft,"['dark techno', 'minimal techno']",0.546,0.979,5,-5.926,0,0.0739,0.00391,0.553,0.107,0.231,132.023,240123,4,0.8,1
-Gimme Some Keys,Matroda,"['bass house', 'electro house', 'tech house']",0.802,0.725,11,-5.218,0,0.0521,0.00222,0.819,0.064,0.864,124.992,169445,4,0.8,1
-HYPNOSIS,AYYBO,[],0.96,0.872,1,-4.758,0,0.282,0.182,0.00983,0.291,0.7,125.03,158583,4,0.5,1
-Papi,Joshwa,"['tech house', 'uk tech house']",0.683,0.898,11,-6.746,0,0.054,0.000739,0.755,0.127,0.276,130.002,173538,4,0.5,1
-Headnoise (Get Hype),Martin Ikin,"['bass house', 'house', 'tech house']",0.704,0.989,11,-6.003,0,0.0564,0.157,0.843,0.0747,0.848,123.971,179032,4,0.8,1
-Motor - Original Mix,Christian Smith,"['deep minimal techno', 'minimal techno', 'swedish techno', 'techno']",0.726,0.724,7,-9.53,1,0.0405,0.00501,0.923,0.121,0.222,123.996,380541,4,0.5,1
-Take It Back,Andrea Maggino,[],0.818,0.898,7,-5.125,1,0.0469,0.00152,0.947,0.0132,0.338,123.005,440976,4,0.5,1
-Raw - Tony Romera Remix,Julio Navas,[],0.865,0.967,0,-5.03,1,0.087,0.392,0.877,0.353,0.163,128.005,217500,4,0.8,1
-Takoflow,Freenzy Music,['tech house'],0.801,0.991,1,-6.993,1,0.0574,0.000131,0.615,0.036,0.697,129.027,342326,4,0.8,1
-Public Safety,Badjokes,"['bass house', 'bassline']",0.76,0.795,2,-5.976,1,0.073,0.091,0.811,0.209,0.155,128.0,213750,4,0.5,1
-(It Goes Like) Nanana - Edit,Peggy Gou,"['electra', 'float house']",0.671,0.876,7,-5.681,0,0.0352,0.12,0.188,0.0823,0.964,129.998,231545,4,0.8,1
-Free,Vintage Culture,['brazilian edm'],0.704,0.936,9,-3.99,1,0.0745,0.00207,0.00026,0.218,0.357,125.018,237024,4,0.8,1
-Bongoloco,Bruno Furlan,"['brazilian edm', 'brazilian tech house', 'tech house']",0.797,0.665,2,-7.612,1,0.106,0.00504,0.757,0.0789,0.0747,128.036,206250,4,0.5,1
-Smooth Operator,Liyah,[],0.553,0.916,9,-7.142,0,0.378,0.0742,0.0192,0.14,0.499,125.892,198095,4,0.8,1
-So 1992 - Radio Slave & P.Leone Remix,Deep Dimension,['industrial techno'],0.683,0.738,11,-6.301,0,0.0312,9.85e-05,0.849,0.0985,0.227,130.003,444923,4,0.5,1
-Stuck On Repeat,Beau,['uk tech house'],0.725,0.808,5,-6.302,1,0.0375,0.00128,0.0667,0.126,0.771,125.502,186479,4,0.5,1
-The Magnificent - Booker T '98 Lick Mix,Agent 00,[],0.697,0.942,1,-5.815,1,0.0537,0.00259,0.324,0.0381,0.772,127.007,368333,4,0.8,1
-Matador,BLVD.,[],0.72,0.916,1,-4.697,1,0.0678,0.00953,0.947,0.297,0.385,125.022,230400,4,0.8,1
-Chutney Mayhem - Chaim & Mita Gami Remix,Niv Ast,['dark disco'],0.804,0.672,10,-10.249,0,0.0869,0.00145,0.894,0.0804,0.451,123.02,335122,4,0.5,1
-Touch The Darkness,Victor Ruiz,"['brazilian techno', 'dark techno', 'deep minimal techno', 'deep techno', 'minimal techno']",0.611,0.99,7,-8.508,1,0.0602,0.00105,0.915,0.273,0.0664,135.02,453333,4,0.8,1
-Laser Bolt,T78,"['dark techno', 'german dark minimal techno', 'italian techno', 'raw techno']",0.718,0.732,10,-6.195,0,0.0436,0.000141,0.759,0.0867,0.284,135.013,309333,4,0.5,1
-Steel Mirror,GUAN,[],0.797,0.748,11,-12.394,1,0.0506,0.000904,0.933,0.0617,0.0927,126.012,428691,4,0.5,1
-Make The World Go Round - Deep Dish Radio Edit,Sandy B,['diva house'],0.74,0.923,0,-6.64,1,0.0605,0.0156,0.0397,0.0684,0.811,121.959,230933,4,0.8,1
-Relax My Eyes,ANOTR,['dutch tech house'],0.747,0.616,3,-9.76,0,0.0324,0.176,0.116,0.143,0.908,131.975,192151,4,0.8,1
-Tribal Orgasm,Bloque M,[],0.744,0.957,11,-3.056,0,0.0549,0.0054,0.233,0.195,0.468,123.997,389032,4,0.8,1
-Maria Maria,TECH IT DEEP,[],0.747,0.657,0,-7.652,1,0.0912,0.0967,0.00497,0.278,0.397,128.037,161802,4,0.5,1
-Express Yourself - Mochakk Remix,Diplo,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",0.902,0.541,1,-7.522,1,0.119,0.00233,0.945,0.0642,0.683,128.026,255000,4,0.5,1
-El Bombo,Ewan McVicar,['scottish techno'],0.808,0.847,6,-6.788,0,0.0619,0.0115,0.863,0.16,0.82,129.998,240570,4,0.8,1
-Hyperion,Atlantis Ocean,['progressive trance house'],0.736,0.52,5,-8.974,0,0.0698,0.121,0.368,0.0706,0.442,126.987,476331,5,0.5,1
-I Go - Soulwax Remix,Peggy Gou,"['electra', 'float house']",0.734,0.763,8,-7.419,0,0.0494,0.0137,0.82,0.172,0.153,125.002,410880,4,0.5,1
-Eau de chantè - For Men,Delicious Inc.,[],0.764,0.88,11,-7.467,0,0.0592,0.0103,0.649,0.082,0.675,123.887,456516,4,0.5,1
-Altar,Dizzy Fae,"['alternative r&b', 'minneapolis indie']",0.743,0.871,8,-8.08,0,0.0398,0.174,0.164,0.111,0.822,114.966,206379,4,0.8,1
-Can’t Fight The Feeling,Matroda,"['bass house', 'electro house', 'tech house']",0.878,0.882,1,-4.143,0,0.223,0.00861,2.39e-05,0.201,0.64,125.98,171429,4,0.5,1
-Gracias a la Vida - Victor Ruiz Remix,Tao Andra,[],0.63,0.837,0,-8.23,1,0.0458,0.0248,0.472,0.0838,0.106,135.006,385778,4,0.5,1
-La Pasion,Matroda,"['bass house', 'electro house', 'tech house']",0.851,0.812,8,-7.984,0,0.123,0.0435,0.442,0.12,0.497,125.969,187143,4,0.5,1
-Jen High - Original Mix,Peggy Gou,"['electra', 'float house']",0.81,0.926,8,-8.674,0,0.0493,0.0747,0.931,0.0736,0.823,121.813,387123,4,0.8,1
-Wild & Free,Jay de Lys,"['latin tech house', 'tech house']",0.802,0.748,7,-10.029,1,0.0547,0.00321,0.511,0.077,0.73,128.023,151875,4,0.5,1
-La leçon particulière,Lavern,['stutter house'],0.821,0.983,2,-5.786,0,0.0587,0.333,0.837,0.156,0.0629,126.018,154286,4,0.8,1
-Vois sur ton chemin - Techno Mix,BENNETT,[],0.634,0.824,2,-3.394,0,0.047,0.0908,0.0711,0.119,0.371,137.959,178156,4,0.5,1
-I Miss You,GELO,['rap napoletano'],0.72,0.498,0,-9.702,0,0.105,0.678,0.0,0.106,0.548,140.0,177670,4,0.5,1
-Pasticche (feat. Capo Plaza),VillaBanks,"['italian hip hop', 'italian pop', 'trap italiana']",0.725,0.781,8,-7.035,0,0.0611,0.0153,9.66e-06,0.0686,0.397,130.986,196742,4,0.5,1
-SCAPPIAMO VIA,NDG,"['italian hip hop', 'italian pop', 'pop virale italiano']",0.673,0.728,10,-3.987,0,0.0697,0.00322,0.0,0.0996,0.278,124.921,157446,4,0.5,1
-Italian Hustler (feat. Rasty Kilo),Guè,"['italian hip hop', 'italian pop']",0.662,0.77,2,-4.091,1,0.233,0.181,0.0,0.125,0.37,124.95,163214,5,0.5,1
-LUNA PIENA (con IRAMA),Rkomi,"['italian hip hop', 'italian pop']",0.722,0.841,1,-3.561,1,0.0545,0.405,0.0,0.0876,0.467,99.963,166984,4,0.5,1
-LA CANZONE NOSTRA ⟁ ︎(con BLANCO & SALMO),MACE,"['funk carioca', 'italian hip hop', 'italian pop']",0.658,0.674,5,-6.848,0,0.0484,0.114,1.84e-05,0.147,0.164,129.914,237614,3,0.5,1
-Topless,Geeno,[],0.709,0.618,9,-10.001,1,0.125,0.159,0.0,0.167,0.87,91.991,180063,4,0.8,1
-Jungle,Rhove,"['italian hip hop', 'italian pop', 'trap italiana']",0.779,0.841,11,-2.471,0,0.21,0.333,1.33e-06,0.305,0.742,141.09,184815,4,0.5,1
-Seignosse,Rhove,"['italian hip hop', 'italian pop', 'trap italiana']",0.919,0.591,10,-5.668,0,0.245,0.192,8.22e-06,0.1,0.159,104.959,176427,4,0.5,1
-Shakerando,Rhove,"['italian hip hop', 'italian pop', 'trap italiana']",0.855,0.805,7,-5.651,0,0.191,0.764,0.00708,0.302,0.469,135.009,195556,4,0.5,1
-LAPROVINCE #1,Rhove,"['italian hip hop', 'italian pop', 'trap italiana']",0.845,0.747,1,-6.239,1,0.197,0.224,1.63e-05,0.0694,0.51,105.871,158373,3,0.5,1
-Notte gialla (feat. Madame),Emis Killa,"['italian hip hop', 'italian pop']",0.657,0.707,11,-6.927,0,0.241,0.324,1.62e-06,0.516,0.529,83.991,191065,4,0.5,1
-m%n,thasup,"['italian hip hop', 'italian pop', 'trap italiana']",0.766,0.667,10,-4.668,0,0.053,0.522,0.0,0.0838,0.52,128.62,174364,4,0.5,1
-KUMITE,Salmo,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap sardegna']",0.816,0.711,7,-4.45,0,0.121,0.0614,0.0,0.103,0.775,140.062,170018,4,0.5,1
-Aston Martin (feat. Headie One),Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.878,0.793,2,-4.46,1,0.303,0.0629,0.0,0.227,0.691,139.853,168000,4,0.5,1
-Il Doc 2 (feat. Tony Effe & Guè),VillaBanks,"['italian hip hop', 'italian pop', 'trap italiana']",0.728,0.621,11,-7.699,0,0.195,0.0187,0.0,0.116,0.467,93.94,174983,4,0.5,1
-Pensando a lei,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.79,0.68,1,-6.787,1,0.223,0.0551,0.0,0.0761,0.61,143.046,176245,4,0.5,1
-CREATUR (feat. Geolier & Ernia),Sick Luke,"['italian hip hop', 'italian pop', 'trap italiana']",0.751,0.53,2,-7.518,1,0.143,0.535,9.23e-05,0.0698,0.174,95.045,191627,4,0.5,1
-SOLITE PARE (feat. thasup & Sfera Ebbasta),Sick Luke,"['italian hip hop', 'italian pop', 'trap italiana']",0.66,0.79,9,-4.344,0,0.0537,0.282,0.0,0.299,0.556,111.071,211660,3,0.5,1
-Finché Non Mi Seppelliscono,BLANCO,"['italian hip hop', 'italian pop']",0.727,0.833,4,-2.594,1,0.0316,0.349,0.0,0.232,0.86,130.024,168000,4,0.8,1
-Ladro Di Fiori,BLANCO,"['italian hip hop', 'italian pop']",0.596,0.763,1,-5.367,0,0.0703,0.37,0.0,0.483,0.606,96.189,188125,4,0.5,1
-∞ LOVE (feat. Guè),Marracash,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap napoletano']",0.726,0.828,7,-5.191,0,0.071,0.105,0.0,0.0873,0.307,125.002,218368,4,0.5,1
-CRAZY LOVE,Marracash,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap napoletano']",0.725,0.713,9,-5.958,0,0.0484,0.224,2.13e-05,0.104,0.392,123.003,192688,4,0.5,1
-Una Lacrima (feat. Sfera Ebbasta),Irama,"['italian adult pop', 'italian pop']",0.698,0.814,1,-4.686,1,0.0338,0.0405,0.0,0.253,0.443,102.986,173301,4,0.5,1
-RS,Bené,['cloud rap francais'],0.774,0.765,7,-4.489,0,0.122,0.381,0.0,0.111,0.338,109.99,214727,4,0.5,1
-Brividi,Mahmood,"['italian adult pop', 'italian pop']",0.523,0.614,7,-4.435,1,0.0347,0.448,0.0,0.254,0.342,122.962,199146,4,0.5,1
-TÊTE (feat. Medy & VillaBanks),AVA,"['italian hip hop', 'trap italiana']",0.588,0.744,1,-3.927,0,0.324,0.0153,0.0,0.0743,0.55,130.066,180905,4,0.5,1
-EGO,Icy Subzero,['italian hip hop'],0.607,0.877,3,-5.452,0,0.177,0.0285,0.0,0.346,0.456,125.025,171839,4,0.5,1
-Capri Sun,Capo Plaza,"['italian hip hop', 'italian pop', 'trap italiana']",0.683,0.852,0,-2.755,1,0.0636,0.0454,0.0,0.246,0.448,93.068,199680,4,0.5,1
-s!r! (feat. Lazza & Sfera Ebbasta),thasup,"['italian hip hop', 'italian pop', 'trap italiana']",0.675,0.739,6,-4.603,0,0.0524,0.387,0.0,0.177,0.338,149.959,237701,4,0.5,1
-USCITO DI GALERA,Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.594,0.746,7,-5.853,0,0.137,0.188,0.0,0.0991,0.0802,164.231,172654,4,0.5,1
-PIOVE (feat. Sfera Ebbasta),Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.381,0.627,4,-5.446,0,0.114,0.232,0.0,0.0803,0.458,187.835,155863,5,0.5,1
-Mamma Mia,Sfera Ebbasta,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']",0.762,0.609,8,-5.934,0,0.0369,0.042,2.78e-06,0.25,0.266,99.971,166796,4,0.5,1
-3 DI CUORI (feat. Lazza),ANNA,"['italian hip hop', 'italian pop']",0.465,0.844,5,-4.355,0,0.203,0.174,0.0,0.173,0.581,100.122,177600,4,0.5,1
-Téléphone,Booba,"['french hip hop', 'old school rap francais', 'pop urbaine', 'rap conscient']",0.813,0.528,7,-5.659,0,0.0315,0.131,0.0,0.203,0.276,112.016,212035,4,0.5,1
-Easy (feat. Fivio Foreign),Sfera Ebbasta,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']",0.738,0.681,8,-6.313,0,0.163,0.189,0.0,0.0983,0.546,144.926,206102,4,0.5,1
-Italiano Anthem,Sfera Ebbasta,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']",0.555,0.613,4,-6.746,0,0.0368,0.0619,0.0,0.198,0.0988,131.922,135935,4,0.5,1
-Le Pietre Non Volano (feat. Marracash),Luchè,"['italian hip hop', 'italian pop', 'rap napoletano']",0.414,0.617,8,-7.998,1,0.0652,0.0512,2e-06,0.135,0.279,80.539,299061,4,0.5,1
-Pornstar (feat. Sfera Ebbasta),Gemitaiz,['italian hip hop'],0.792,0.568,0,-6.197,0,0.0342,0.00803,1.41e-05,0.228,0.183,100.002,237266,4,0.5,1
-GASOLINA,ANNA,"['italian hip hop', 'italian pop']",0.713,0.862,2,-2.9,1,0.0423,0.0695,3.95e-06,0.0847,0.691,130.139,145846,4,0.5,1
-Hace Calor - Remix,Kaleb Di Masi,"['cumbia 420', 'rkt']",0.889,0.618,5,-5.124,0,0.0627,0.367,0.00438,0.105,0.444,130.021,247385,4,0.5,1
-TOPBOY (feat. Noyz Narcos),Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.72,0.788,9,-6.637,0,0.281,0.215,0.0,0.105,0.282,93.331,206494,4,0.5,1
-when the party's over,Billie Eilish,"['art pop', 'pop']",0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,196077,4,0.2,0
-Train Wreck,James Arthur,"['pop', 'talent show', 'uk pop']",0.311,0.485,6,-5.726,0,0.0365,0.701,0.0,0.0726,0.225,77.355,208827,4,0.5,0
-hostage,Billie Eilish,"['art pop', 'pop']",0.427,0.123,9,-15.228,0,0.0497,0.868,3.12e-05,0.0732,0.0394,129.565,229426,5,0.2,0
-Elk Grove,David Kushner,['gen z singer-songwriter'],0.324,0.217,0,-12.606,1,0.0315,0.959,0.00539,0.124,0.0984,116.583,215712,4,0.2,0
-making the bed,Olivia Rodrigo,['pop'],0.537,0.413,7,-7.736,1,0.0319,0.346,0.0,0.12,0.226,133.21,198867,4,0.5,0
-logical,Olivia Rodrigo,['pop'],0.499,0.246,7,-8.082,1,0.0345,0.853,0.0,0.1,0.153,81.051,231907,4,0.2,0
-the grudge,Olivia Rodrigo,['pop'],0.548,0.307,10,-9.214,1,0.0781,0.916,0.0,0.0828,0.317,127.923,189386,4,0.5,0
-Your Power,Billie Eilish,"['art pop', 'pop']",0.632,0.284,9,-14.025,0,0.0801,0.932,0.000476,0.233,0.208,129.642,245897,4,0.5,0
-Everybody Dies,Billie Eilish,"['art pop', 'pop']",0.275,0.155,7,-17.285,0,0.0674,0.928,0.176,0.0888,0.0588,65.136,206623,3,0.2,0
-Male Fantasy,Billie Eilish,"['art pop', 'pop']",0.687,0.288,2,-10.415,1,0.045,0.863,0.0,0.0986,0.308,110.927,194887,4,0.5,0
-Ontario,Novo Amor,"['ambient folk', 'indie folk', 'modern indie folk']",0.409,0.223,10,-13.886,1,0.0296,0.947,0.0123,0.0635,0.173,89.877,192867,4,0.2,0
-Impossible,James Arthur,"['pop', 'talent show', 'uk pop']",0.376,0.695,0,-4.782,0,0.0933,0.135,0.0,0.11,0.302,169.533,209440,4,0.5,0
-Heather,Conan Gray,"['bedroom pop', 'pop', 'pov: indie']",0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,198040,3,0.5,0
-lovely (with Khalid),Billie Eilish,"['art pop', 'pop']",0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,200186,4,0.2,0
-Jacob and the Stone,Emile Mosseri,[],0.193,0.171,1,-18.494,1,0.0368,0.915,0.942,0.119,0.105,84.067,98560,4,0.2,0
-favorite crime,Olivia Rodrigo,['pop'],0.369,0.272,9,-10.497,1,0.0364,0.866,0.0,0.147,0.218,172.929,152667,4,0.5,0
-"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,"['art pop', 'pop']",0.444,0.0911,0,-17.665,1,0.0307,0.959,1.05e-06,0.098,0.142,78.403,222370,4,0.2,0
-listen before i go,Billie Eilish,"['art pop', 'pop']",0.319,0.0561,0,-23.023,1,0.045,0.935,0.00384,0.388,0.082,79.764,242652,3,0.2,0
-i love you,Billie Eilish,"['art pop', 'pop']",0.421,0.131,0,-18.435,1,0.0382,0.952,0.00453,0.109,0.12,137.446,291796,4,0.2,0
-Broken,Isak Danielson,['swedish singer-songwriter'],0.434,0.637,5,-6.85,0,0.0613,0.451,0.0,0.112,0.1,141.869,216338,4,0.5,0
-Get Down - Acoustic,James Arthur,"['pop', 'talent show', 'uk pop']",0.406,0.485,4,-5.427,0,0.036,0.734,0.0,0.102,0.558,121.351,250840,5,0.5,0
-You're Nobody 'Til Somebody Loves You - Acoustic,James Arthur,"['pop', 'talent show', 'uk pop']",0.55,0.808,10,-5.541,0,0.378,0.24,0.0,0.076,0.896,159.889,191013,4,0.8,0
-Emergency,James Arthur,"['pop', 'talent show', 'uk pop']",0.614,0.663,11,-6.119,0,0.0499,0.00552,0.0,0.189,0.435,86.98,247813,4,0.5,0
-The Funeral,Band of Horses,"['chamber pop', 'indie folk', 'indie rock', 'indietronica', 'modern rock', 'stomp and holler']",0.316,0.769,0,-5.283,0,0.0422,0.0142,0.0,0.0928,0.127,122.507,321147,4,0.5,0
-Re: Stacks,Bon Iver,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'modern rock']",0.676,0.0812,2,-22.846,1,0.0398,0.979,0.416,0.118,0.314,125.053,401413,4,0.5,0
-Berlin,RY X,"['indie anthem-folk', 'indie folk']",0.396,0.0695,7,-20.337,1,0.0399,0.967,0.105,0.0996,0.0391,137.149,170551,4,0.2,0
-To Build A Home,The Cinematic Orchestra,"['compositional ambient', 'downtempo', 'nu jazz']",0.264,0.128,9,-15.443,1,0.034,0.885,0.352,0.105,0.0774,148.499,370667,4,0.2,0
-Hallelujah,Jeff Buckley,"['melancholia', 'permanent wave', 'singer-songwriter']",0.339,0.143,0,-10.78,1,0.0317,0.921,0.000636,0.372,0.0948,101.213,413320,3,0.2,0
-Isaac,Bear's Den,"['folk-pop', 'stomp and flutter', 'uk americana']",0.734,0.387,8,-11.821,0,0.0345,0.818,1.08e-05,0.123,0.213,130.04,239600,4,0.5,0
-FIGURES,Jessie Reyez,"['canadian contemporary r&b', 'canadian pop']",0.6,0.139,7,-8.975,1,0.0464,0.811,9.5e-06,0.0918,0.256,171.041,240907,3,0.5,0
-The Blower's Daughter,Damien Rice,"['irish rock', 'irish singer-songwriter', 'neo mellow', 'singer-songwriter']",0.342,0.2,4,-13.569,1,0.0324,0.134,0.000153,0.341,0.0743,133.113,286653,4,0.2,0
-Mad World,Gary Jules,['neo mellow'],0.344,0.0585,3,-17.212,1,0.0373,0.976,0.000362,0.103,0.323,174.149,189507,4,0.5,0
-Un homme heureux,William Sheller,"['chanson', 'french rock']",0.478,0.856,0,-20.677,0,0.603,0.865,7.34e-05,0.272,0.575,116.969,292800,4,0.5,0
-Don't You Remember,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",0.64,0.395,3,-5.689,1,0.0307,0.206,0.0,0.0935,0.235,115.082,243200,4,0.5,0
-Can't Help Falling In Love (Recorded Live at Daytrotter),Ingrid Michaelson,"['acoustic pop', 'ectofolk', 'lilith', 'neo mellow']",0.315,0.151,0,-11.737,1,0.0322,0.928,0.014,0.086,0.253,141.178,194027,4,0.5,0
-Mama Says,Ibeyi,"['cuban alternative', 'etherpop', 'world']",0.861,0.215,0,-14.439,0,0.115,0.597,0.00105,0.137,0.144,119.932,249400,4,0.2,0
-Retrograde,James Blake,"['art pop', 'indie soul', 'indietronica', 'uk alternative pop']",0.533,0.251,7,-11.283,0,0.0372,0.873,0.104,0.134,0.186,77.503,223600,4,0.2,0
-Stay,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",0.621,0.31,9,-10.164,0,0.0283,0.945,6.12e-05,0.117,0.125,111.893,240707,4,0.5,0
-I'm Kissing You,Des'ree,"['europop', 'new wave pop']",0.224,0.294,9,-14.434,0,0.0402,0.911,0.0133,0.105,0.0711,82.428,293573,5,0.2,0
-La chanson des vieux amants,Jacques Brel,"['belgian singer-songwriter', 'chanson']",0.397,0.2,0,-14.119,0,0.0287,0.826,0.000454,0.164,0.228,90.211,267467,4,0.5,0
-Youth,Daughter,"['chamber pop', 'shimmer pop']",0.589,0.477,9,-12.71,0,0.0493,0.608,0.00188,0.122,0.488,150.399,251627,4,0.8,0
-Freedom (#1),MØ,"['dance pop', 'danish pop', 'electropop', 'pop dance']",0.359,0.271,7,-8.988,0,0.032,0.955,0.00144,0.16,0.143,130.874,249533,5,0.2,0
-Varðeldur,Sigur Rós,"['chamber pop', 'compositional ambient', 'dream pop', 'ethereal wave', 'icelandic rock', 'indie rock', 'melancholia', 'nordic post-rock', 'post-rock']",0.375,0.234,11,-13.507,0,0.0325,0.936,0.89,0.141,0.0368,98.063,367773,3,0.2,0
-(No One Knows Me) Like the Piano,Sampha,"['alternative r&b', 'indie soul']",0.621,0.199,10,-13.788,1,0.0344,0.976,0.00186,0.107,0.178,128.905,218160,4,0.2,0
-Whirlwind,Halehan,[],0.73,0.189,11,-11.111,0,0.0349,0.848,0.0,0.119,0.177,111.066,241093,4,0.2,0
-Frida,Thos Henley,[],0.607,0.23,7,-8.979,1,0.0299,0.8,0.000124,0.119,0.357,78.957,212547,4,0.5,0
-Nothing's Gonna Hurt You Baby,Cigarettes After Sex,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",0.509,0.331,4,-14.083,1,0.0267,0.272,0.136,0.114,0.0957,96.848,286293,4,0.5,0
-Indigo Night,Tamino,['belgian indie'],0.486,0.148,3,-15.237,0,0.0345,0.953,0.000121,0.117,0.124,117.676,254867,4,0.2,0
-Heal,Tom Odell,['chill pop'],0.455,0.179,1,-12.938,1,0.0389,0.952,0.00056,0.106,0.12,73.698,195240,4,0.2,0
-Mockingbird,Eminem,"['detroit hip hop', 'hip hop', 'rap']",0.654,0.661,4,-4.341,0,0.277,0.263,0.0,0.128,0.263,83.664,252187,4,0.5,0
-Exit Music (For a Film),Radiohead,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",0.293,0.276,7,-11.353,1,0.0351,0.229,0.119,0.167,0.196,121.603,267187,4,0.2,0
-Liability,Lorde,"['art pop', 'metropopolis', 'nz pop', 'pop']",0.516,0.228,10,-11.108,0,0.14,0.926,0.0,0.109,0.318,78.908,171803,4,0.5,0
-Miss Misery (Early Version),Elliott Smith,"['alternative rock', 'indie rock', 'melancholia', 'singer-songwriter']",0.481,0.194,3,-16.133,1,0.0387,0.893,0.47,0.0984,0.299,134.635,176053,3,0.5,0
-Boxes,Charlie Winston,"['french rock', 'uk alternative pop']",0.467,0.394,3,-8.513,1,0.0292,0.943,0.0181,0.0748,0.18,148.289,281240,4,0.5,0
-10am Gare du Nord,Keaton Henson,"['ambient folk', 'british singer-songwriter', 'indie folk']",0.429,0.174,0,-12.185,1,0.0349,0.909,0.0,0.116,0.123,108.691,238173,4,0.2,0
-Piano ombre,Frànçois & The Atlas Mountains,"['french indie pop', 'french indietronica', 'french psychedelic']",0.434,0.379,7,-10.831,1,0.0285,0.638,0.553,0.0977,0.0684,87.091,210640,4,0.5,0
-The Scientist,Coldplay,"['permanent wave', 'pop']",0.557,0.442,5,-7.224,1,0.0243,0.731,1.46e-05,0.11,0.213,146.277,309600,4,0.8,0
-Breathe Me,Sia,"['australian dance', 'australian pop', 'pop']",0.544,0.63,0,-7.523,1,0.0335,0.034,0.573,0.0961,0.202,120.064,274933,4,0.5,0
-Poison & Wine,The Civil Wars,"['acoustic pop', 'indie folk', 'neo mellow', 'new americana', 'stomp and holler']",0.285,0.186,1,-12.729,1,0.0288,0.76,7.3e-05,0.104,0.203,153.848,219467,4,0.5,0
-Near To You,A Fine Frenzy,"['acoustic pop', 'lilith', 'neo mellow']",0.515,0.159,1,-8.972,1,0.0288,0.944,0.0,0.109,0.205,72.907,275333,4,0.5,0
-Talk To Me - Live,Yodelice,"['chanson', 'french indie folk', 'french indie pop', 'french pop', 'french rock', 'nouvelle chanson francaise']",0.336,0.214,4,-14.074,0,0.0332,0.969,0.0019,0.354,0.075,82.389,264267,4,0.2,0
-River,Joni Mitchell,"['canadian singer-songwriter', 'folk', 'folk rock', 'singer-songwriter']",0.405,0.152,0,-13.901,1,0.0395,0.979,9.07e-05,0.104,0.383,61.34,245040,4,0.5,0
-Phantom Limb,Hospital Ships,['lawrence ks indie'],0.317,0.286,2,-16.816,1,0.0352,0.445,0.138,0.107,0.0582,93.349,243694,4,0.2,0
-Chasing Cars,Snow Patrol,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']",0.563,0.592,9,-4.571,1,0.0276,0.209,5.08e-05,0.132,0.136,104.016,267933,4,0.5,0
-In The Silence,JP Cooper,['uk pop'],0.507,0.301,8,-7.992,1,0.0254,0.839,0.0,0.0955,0.117,94.901,199949,4,0.5,0
-Cold,Novo Amor,"['ambient folk', 'indie folk', 'modern indie folk']",0.411,0.304,3,-11.311,1,0.0345,0.791,0.402,0.0896,0.0392,67.553,263046,4,0.5,0
-Going Home,Ásgeir,"['icelandic folk', 'icelandic indie', 'icelandic pop']",0.423,0.278,8,-13.018,0,0.0358,0.711,0.603,0.111,0.289,180.074,290890,1,0.5,0
-Jóga,Björk,"['alternative rock', 'art pop', 'electronica', 'experimental pop', 'experimental vocal', 'icelandic experimental', 'icelandic pop', 'icelandic singer-songwriter', 'metropopolis', 'permanent wave', 'trip hop']",0.332,0.708,1,-6.345,0,0.056,0.405,7.91e-05,0.0743,0.239,146.195,309667,4,0.5,0
-Glory Box,Portishead,"['alternative rock', 'art pop', 'dark pop', 'electronica', 'laboratorio', 'trip hop']",0.51,0.434,1,-10.004,1,0.0361,0.177,0.516,0.0603,0.207,119.695,308627,4,0.2,0
-Asleep - 2011 Remaster,The Smiths,"['madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']",0.512,0.255,0,-15.867,1,0.0291,0.88,0.532,0.146,0.215,115.144,253560,3,0.5,0
-Thinkin Bout You,Frank Ocean,"['lgbtq+ hip hop', 'neo soul']",0.721,0.339,0,-11.195,1,0.0532,0.409,0.00153,0.0973,0.2,129.83,200747,4,0.5,0
-Highspeeds,Elliot Moss,['nyc pop'],0.533,0.243,5,-13.144,1,0.0398,0.963,0.0119,0.125,0.0675,130.05,202333,4,0.2,0
-La fin des temps,Mansfield.TYA,"['french indie pop', 'french indietronica', 'french synthpop', 'nantes indie', 'nouvelle chanson francaise']",0.299,0.31,7,-14.242,0,0.0379,0.43,0.788,0.0864,0.0526,179.97,281627,3,0.5,0
-Say It First,Sam Smith,"['pop', 'uk pop']",0.566,0.407,0,-10.293,1,0.0914,0.766,0.000185,0.111,0.156,119.781,247555,4,0.5,0
-Across The River,The Bony King of Nowhere,"['belgian indie', 'belgian rock', 'belgian singer-songwriter', 'ghent indie']",0.441,0.232,4,-10.05,1,0.0266,0.926,1.26e-05,0.114,0.18,90.052,188520,4,0.2,0
-Fly,Ludovico Einaudi,"['compositional ambient', 'neo-classical']",0.166,0.25,1,-15.191,0,0.0357,0.994,0.876,0.0752,0.0349,77.031,280280,1,0.2,0
-Empty Space,Air Traffic,['british indie rock'],0.338,0.294,10,-10.115,0,0.0313,0.976,0.187,0.11,0.0929,84.055,217173,4,0.2,0
-I Might Float,Syd Matters,"['folktronica', 'french indie folk']",0.612,0.352,8,-10.094,1,0.0377,0.619,0.461,0.0825,0.168,152.617,290067,4,0.5,0
-Autumn,Paolo Nutini,"['british soul', 'neo mellow', 'scottish singer-songwriter']",0.55,0.0818,9,-12.531,1,0.0462,0.978,0.000211,0.084,0.327,113.265,169067,4,0.5,0
-The Wind That Blows,Piers Faccini,"['british singer-songwriter', 'french indie folk']",0.517,0.266,0,-15.811,1,0.0281,0.42,0.000591,0.159,0.25,75.018,227493,4,0.5,0
-Sur toi,Zazie,"['chanson', 'french pop', 'french rock']",0.543,0.204,1,-15.334,1,0.0444,0.908,0.000213,0.114,0.381,131.751,247107,4,0.5,0
-Walk Away,Ben Harper,"['neo mellow', 'pastoral']",0.712,0.0954,7,-15.896,1,0.0474,0.874,0.0,0.105,0.393,140.431,229493,4,0.5,0
-Nicest Thing,Kate Nash,"['anti-folk', 'piano rock']",0.536,0.314,11,-11.235,0,0.0299,0.686,0.000865,0.191,0.367,109.857,245507,4,0.2,0
-Colorblind,Counting Crows,"['neo mellow', 'pop rock', 'post-grunge', 'rock']",0.35,0.231,5,-13.319,1,0.031,0.961,0.0947,0.118,0.0713,107.763,203493,4,0.2,0
-B a noBody,SOAK,"['derry indie', 'irish singer-songwriter']",0.423,0.268,7,-10.288,1,0.0315,0.904,0.0254,0.157,0.178,124.624,288141,4,0.2,0
-Everybody Wants,Half Moon Run,"['canadian indie', 'indie folk', 'quebec indie']",0.478,0.324,0,-11.872,1,0.0281,0.567,0.128,0.0936,0.249,82.457,301133,4,0.2,0
-Nuit 17 à 52,Christine and the Queens,"['art pop', 'electro-pop francais', 'metropopolis', 'shimmer pop']",0.497,0.351,7,-11.351,1,0.0361,0.248,0.0111,0.131,0.0612,174.02,262263,4,0.5,0
-Family,Noah Gundersen,"['acoustic pop', 'alternative roots rock', 'indie folk', 'stomp and holler']",0.476,0.201,6,-11.836,0,0.0328,0.749,0.000589,0.173,0.154,111.681,214840,3,0.2,0
-Crosses,José González,"['chamber pop', 'gothenburg indie', 'indie folk', 'stomp and holler', 'swedish indie folk', 'swedish indie pop', 'swedish singer-songwriter']",0.667,0.368,11,-9.939,0,0.0296,0.888,0.0225,0.103,0.301,134.624,162920,4,0.5,0
-Aucun express,Alain Bashung,"['chanson', 'french rock']",0.28,0.379,11,-11.531,0,0.0468,0.156,0.186,0.0925,0.0485,68.503,245200,4,0.5,0
-Chord Left,Agnes Obel,['chamber pop'],0.622,0.0908,2,-20.476,0,0.0651,0.995,0.967,0.103,0.0377,182.003,148533,4,0.2,0
-Claude's Girl,Marika Hackman,['ambient folk'],0.444,0.0629,7,-20.499,0,0.035,0.962,0.0069,0.097,0.225,141.325,158423,3,0.5,0
-Nothing Compares 2 U,Sinéad O'Connor,"['lilith', 'new wave pop', 'singer-songwriter']",0.511,0.574,5,-7.016,1,0.0273,0.0425,2.33e-05,0.105,0.161,119.917,280040,4,0.5,0
-Keep Your Head Up,Ben Howard,"['british singer-songwriter', 'folk-pop', 'indie folk']",0.48,0.61,4,-9.067,0,0.0311,0.604,5.23e-05,0.112,0.553,79.105,265866,4,0.5,0
-Perfect Darkness,Fink,['indie folk'],0.677,0.443,7,-9.526,1,0.0343,0.518,0.105,0.195,0.303,90.014,399027,4,0.5,0
-Blue Bucket of Gold,Sufjan Stevens,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock', 'singer-songwriter']",0.306,0.0918,2,-23.005,1,0.0319,0.942,0.0224,0.161,0.124,74.925,285467,4,0.2,0
-Dans le noir,Leto,"['french hip hop', 'pop urbaine', 'rap francais']",0.799,0.67,5,-7.09,0,0.172,0.207,0.0,0.103,0.787,144.062,160859,4,0.5,1
-1 2 3 4,Zokush,"['r&b francais', 'rap francais']",0.821,0.663,11,-7.199,0,0.125,0.268,0.0,0.113,0.556,129.985,180793,4,0.5,1
-BALLE DANS LE COEUR,Ikaz Boi,"['french hip hop', 'pop urbaine', 'rap calme', 'rap francais']",0.71,0.591,7,-9.802,0,0.0723,0.0467,1.25e-06,0.436,0.55,120.004,160307,4,0.5,1
-Akrapo 7,UZI,"['french hip hop', 'pop urbaine', 'rap francais']",0.755,0.555,1,-7.752,1,0.233,0.0673,0.0,0.296,0.569,117.119,189618,4,0.5,1
-FLASHBACK,Favé,"['drill francais', 'rap francais']",0.762,0.564,6,-6.934,0,0.088,0.39,0.0,0.0654,0.744,141.938,176120,4,0.5,1
-Magot,Werenoi,"['french hip hop', 'pop urbaine']",0.534,0.747,1,-6.412,0,0.315,0.231,0.0,0.21,0.523,98.229,196089,3,0.5,1
-Eurostar (feat. Central Cee),Ninho,"['french hip hop', 'pop urbaine']",0.777,0.701,6,-6.13,0,0.167,0.615,1.03e-06,0.0843,0.836,137.054,187058,4,0.8,1
-Meuda,Tiakola,"['french hip hop', 'pop urbaine']",0.724,0.593,9,-6.498,1,0.0766,0.508,0.0,0.196,0.624,141.901,152547,4,0.5,1
-LA RUE,No Limit,['drill francais'],0.713,0.59,2,-8.651,0,0.196,0.348,1.99e-06,0.123,0.578,138.065,225137,4,0.5,1
-Bolide allemand,SDM,"['french hip hop', 'pop urbaine', 'r&b francais']",0.718,0.643,4,-7.473,0,0.16,0.441,0.0,0.113,0.645,131.825,176747,4,0.5,1
-Laboratoire,Werenoi,"['french hip hop', 'pop urbaine']",0.801,0.604,5,-6.525,0,0.21,0.463,0.00378,0.111,0.534,125.024,162840,4,0.5,1
-Jour de plus,Freeze corleone,"['drill francais', 'french hip hop', 'melodic drill', 'pop urbaine']",0.79,0.768,10,-6.45,0,0.227,0.0027,6.28e-06,0.116,0.316,143.962,209557,4,0.5,1
-Special,Dave,['uk hip hop'],0.742,0.763,2,-6.488,0,0.243,0.242,0.0,0.146,0.865,143.125,247507,4,0.8,1
-Mucho cuir,Rsko,"['pop urbaine', 'r&b francais']",0.745,0.63,8,-6.643,0,0.158,0.249,0.0,0.119,0.643,126.978,185813,4,0.5,1
-Demain,PLK,"['french hip hop', 'pop urbaine', 'rap conscient', 'rap francais']",0.726,0.675,1,-8.251,1,0.16,0.272,0.0,0.121,0.846,137.954,183013,4,0.8,1
-Ciao,Werenoi,"['french hip hop', 'pop urbaine']",0.679,0.646,2,-6.606,0,0.202,0.129,0.0,0.323,0.546,147.969,216333,4,0.5,1
-AMBER,Zola,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap francais']",0.707,0.778,6,-8.915,1,0.221,0.0853,0.00365,0.177,0.668,140.988,182068,4,0.5,1
-Immonde,Leto,"['french hip hop', 'pop urbaine', 'rap francais']",0.697,0.53,2,-10.079,0,0.291,0.0937,0.0,0.0979,0.658,142.103,162525,4,0.5,1
-Meridian,Dave,['uk hip hop'],0.897,0.665,4,-4.718,0,0.0713,0.169,4.02e-05,0.217,0.601,115.05,255160,4,0.5,1
-Quoi de neuf bébé,Jok'air,"['french hip hop', 'pop urbaine', 'r&b francais']",0.658,0.525,10,-6.764,0,0.117,0.219,2.18e-06,0.115,0.174,147.125,202760,4,0.5,1
-Les Flammes,Josman,"['cloud rap francais', 'french hip hop', 'pop urbaine', 'rap conscient']",0.795,0.584,2,-6.726,0,0.316,0.239,0.0,0.0801,0.686,143.951,193333,4,0.5,1
-NO LÈCHE,Gazo,"['drill francais', 'french hip hop', 'pop urbaine', 'r&b francais', 'rap francais']",0.746,0.736,0,-8.439,1,0.353,0.0741,0.000483,0.124,0.577,156.017,194202,4,0.5,1
-Bonsoir Paris (Mama No Cry),S.Pri Noir,"['french hip hop', 'pop urbaine', 'rap francais']",0.704,0.466,6,-12.345,0,0.402,0.319,6.01e-05,0.224,0.389,95.334,218535,4,0.2,1
-Jolie (feat. Ninho),GAULOIS,['r&b francais'],0.717,0.686,1,-6.388,0,0.0483,0.141,0.0,0.208,0.653,134.067,159573,4,0.5,1
-La faille,Jul,"['french hip hop', 'pop urbaine', 'rap marseille']",0.941,0.775,5,-5.151,0,0.167,0.227,0.0,0.0964,0.619,130.028,291280,4,0.5,1
-Bonjour,Gambi,"['french hip hop', 'pop urbaine', 'rap francais']",0.719,0.793,4,-4.681,0,0.287,0.00269,0.0,0.0631,0.831,157.985,136712,4,0.8,1
-Mahmouma,Niaks,[],0.857,0.513,8,-7.079,0,0.178,0.178,0.000708,0.0952,0.527,129.996,142747,4,0.5,1
-Guapa,Guy2Bezbar,"['french hip hop', 'pop urbaine', 'rap francais']",0.828,0.732,2,-7.279,1,0.351,0.126,0.0,0.11,0.819,130.056,169593,4,0.8,1
-Roule un autre - A COLORS SHOW,Kerchak,['drill francais'],0.522,0.744,8,-8.277,1,0.706,0.0294,1.76e-06,0.17,0.466,71.47,176087,5,0.5,1
-Shavkat,Freeze corleone,"['drill francais', 'french hip hop', 'melodic drill', 'pop urbaine']",0.629,0.731,1,-7.157,1,0.297,0.0696,0.0,0.0967,0.489,111.154,219866,3,0.5,1
-Maybach,Landy,"['french hip hop', 'pop urbaine', 'rap francais']",0.51,0.467,10,-7.03,1,0.256,0.518,0.0,0.0719,0.451,189.017,188573,3,0.8,1
-COEUR DE ICE (feat. Damso),Zola,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap francais']",0.851,0.567,2,-8.074,1,0.231,0.215,0.0,0.0998,0.446,119.969,192213,4,0.5,1
-Capitaine,Djadja & Dinaz,"['french hip hop', 'pop urbaine', 'rap conscient']",0.768,0.662,0,-5.92,1,0.182,0.37,0.0,0.0844,0.636,151.937,155920,4,0.5,1
-Codéine 19,Hamza,"['belgian hip hop', 'cloud rap francais', 'french hip hop', 'pop urbaine', 'rap belge', 'rap francais']",0.812,0.525,5,-6.906,0,0.0942,0.162,0.0,0.132,0.698,76.977,143280,4,0.5,1
-Philly,Zkr,"['french hip hop', 'pop urbaine', 'rap francais']",0.884,0.647,6,-5.886,0,0.28,0.101,0.0,0.0976,0.655,127.016,228575,4,0.5,1
-Dernière ligne droite (feat. Laylow),SCH,"['french hip hop', 'pop urbaine', 'rap francais', 'rap marseille']",0.608,0.451,1,-8.594,0,0.409,0.366,7.07e-05,0.109,0.105,79.797,193271,4,0.5,1
-Quali,OBOY,"['french hip hop', 'pop urbaine', 'rap francais']",0.722,0.511,6,-6.443,0,0.0329,0.248,0.0,0.0588,0.457,116.973,181650,4,0.5,1
-Pas là,Djadja & Dinaz,"['french hip hop', 'pop urbaine', 'rap conscient']",0.786,0.643,2,-5.42,0,0.0316,0.622,5.71e-05,0.135,0.755,125.045,147000,4,0.5,1
-Une Autre,Kaaris,"['drill francais', 'french hip hop', 'pop urbaine', 'rap francais', 'trap antillais']",0.69,0.716,8,-6.507,0,0.0963,0.597,0.0,0.124,0.769,145.861,166115,4,0.5,1
-ᚷ. INSPIRÉ DE FAITS RÉELS #6,Beendo Z,['drill francais'],0.536,0.57,1,-10.641,1,0.349,0.0943,0.0,0.0611,0.46,142.427,169882,4,0.8,1
+name,artist,genres,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,type,movement
+TOPBOY (feat. Noyz Narcos),Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.72,0.788,9,-6.637,0,0.281,0.215,0.0,0.105,0.282,93.331,206494,4,walk,"[0.5, 0.6, 0.7]"
+Diluvio A Luglio (feat. Marracash),Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.717,0.729,8,-6.883,1,0.0566,0.113,0.0,0.135,0.241,98.034,191240,4,walk,"[0.5, 0.6, 0.7]"
+Un Briciolo Di Allegria (con MINA),BLANCO,"['italian hip hop', 'italian pop']",0.617,0.707,2,-4.31,1,0.0399,0.467,0.0,0.0481,0.392,91.925,207615,4,walk,"[0.5, 0.6, 0.7]"
+Santana Season,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.572,0.766,2,-5.591,1,0.268,0.159,0.0,0.322,0.223,98.06,167663,4,walk,"[0.5, 0.6, 0.7]"
+VETRI NERI,AVA,"['italian hip hop', 'trap italiana']",0.754,0.767,6,-4.98,1,0.0594,0.0763,4.79e-05,0.112,0.529,134.084,164776,4,walk,"[0.5, 0.6, 0.7]"
+COME VUOI,Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.756,0.631,8,-5.297,0,0.0502,0.13,0.0,0.0649,0.896,130.052,172615,4,walk,"[0.5, 0.6, 0.7]"
+SONNY - city of god,Emis Killa,"['italian hip hop', 'italian pop']",0.814,0.639,6,-7.017,0,0.113,0.371,0.0,0.0859,0.414,123.859,190520,4,walk,"[0.5, 0.6, 0.7]"
+BUONANOTTE,Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.531,0.514,8,-12.734,1,0.424,0.879,1.27e-06,0.111,0.571,85.854,220299,4,walk,"[0.5, 0.6, 0.7]"
+Angelo All'Inferno (feat. Salmo & Federica Abbate),Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.573,0.798,7,-7.527,0,0.225,0.309,0.0,0.0841,0.0816,89.575,173040,4,walk,"[0.5, 0.6, 0.7]"
+"BON TON (feat. Lazza, Blanco, Sfera Ebbasta & Michelangelo)",Drillionaire,['italian hip hop'],0.676,0.81,11,-5.209,1,0.0411,0.0815,1.92e-06,0.154,0.656,129.986,238534,4,walk,"[0.5, 0.6, 0.7]"
+Soli (feat. Tiago PZK & Rvssian),Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.61,0.742,10,-7.122,0,0.336,0.177,0.000254,0.176,0.382,214.047,183896,4,walk,"[0.5, 0.6, 0.7]"
+CINEMA,Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.557,0.715,7,-5.894,0,0.0622,0.0585,0.0,0.0998,0.22,93.976,201140,4,walk,"[0.5, 0.6, 0.7]"
+2 SECONDI,Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.66,0.755,9,-5.96,0,0.164,0.293,0.0,0.055,0.605,120.035,149000,4,walk,"[0.5, 0.6, 0.7]"
+SENZ'ANIMA - nikita,Emis Killa,"['italian hip hop', 'italian pop']",0.489,0.697,9,-5.41,0,0.173,0.225,0.0,0.115,0.532,97.243,193453,3,walk,"[0.5, 0.6, 0.7]"
+BELLA FREGATURA,Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.626,0.664,8,-5.745,1,0.306,0.109,0.0,0.0959,0.414,167.838,174103,4,walk,"[0.5, 0.6, 0.7]"
+Red Light,Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.558,0.624,4,-6.567,1,0.0439,0.0678,0.0,0.0746,0.574,66.512,167867,4,walk,"[0.5, 0.6, 0.7]"
+DESOLÉ (feat. Rhove & Geolier),Drillionaire,['italian hip hop'],0.613,0.779,1,-4.592,0,0.0352,0.0267,0.0,0.281,0.266,103.006,165491,4,walk,"[0.5, 0.6, 0.7]"
+100 OPPS,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.779,0.605,1,-3.785,1,0.103,0.0732,0.0,0.0769,0.612,151.017,167771,4,walk,"[0.5, 0.6, 0.7]"
+Mamma Mia,Sfera Ebbasta,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']",0.762,0.609,8,-5.934,0,0.0369,0.042,2.78e-06,0.25,0.266,99.971,166796,4,walk,"[0.5, 0.6, 0.7]"
+IN TRAPPOLA (feat. Lele Blade),Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.611,0.695,9,-4.6,0,0.391,0.0867,0.0,0.144,0.461,109.376,137778,5,walk,"[0.5, 0.6, 0.7]"
+BIG BANG - upside down,Emis Killa,"['italian hip hop', 'italian pop']",0.766,0.577,8,-9.462,1,0.163,0.221,0.0,0.0991,0.296,120.076,198253,4,walk,"[0.5, 0.6, 0.7]"
+PARAFULMINI (con Bresh & Fabri Fibra),Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.785,0.774,5,-6.028,1,0.215,0.179,0.0,0.148,0.573,110.027,208909,4,walk,"[0.5, 0.6, 0.7]"
+Outro Purgatorio,Tedua,"['indie liguria', 'italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.623,0.794,1,-6.304,1,0.265,0.141,0.0,0.137,0.358,89.495,284240,4,walk,"[0.5, 0.6, 0.7]"
+3 PALI,Lazza,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",0.676,0.754,11,-5.237,0,0.109,0.125,0.0,0.147,0.29,102.675,192827,3,walk,"[0.5, 0.6, 0.7]"
+Champagne + Tiffany,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.65,0.665,10,-5.488,0,0.428,0.177,0.0,0.0974,0.322,95.751,310175,4,walk,"[0.5, 0.6, 0.7]"
+Anche Stasera,Sfera Ebbasta,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']",0.73,0.663,0,-6.021,0,0.0561,0.147,0.0,0.177,0.389,139.918,217500,4,walk,"[0.5, 0.6, 0.7]"
+MONDAY (feat. Shiva & Michelangelo),Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.661,0.715,7,-4.042,1,0.346,0.308,0.0,0.132,0.676,100.26,165216,4,walk,"[0.5, 0.6, 0.7]"
+ALBICOCCA - lolita,Emis Killa,"['italian hip hop', 'italian pop']",0.753,0.705,10,-5.083,1,0.288,0.372,0.0,0.0917,0.667,85.218,162733,4,walk,"[0.5, 0.6, 0.7]"
+Léon (The Professional),Guè,"['italian hip hop', 'italian pop']",0.676,0.833,7,-4.464,1,0.153,0.327,6.84e-06,0.412,0.299,95.047,162519,4,walk,"[0.5, 0.6, 0.7]"
+MI AMI O NO (feat. Capo Plaza),Giaime,"['italian hip hop', 'trap italiana']",0.718,0.776,8,-5.418,1,0.24,0.112,0.00243,0.144,0.41,91.158,145085,4,walk,"[0.5, 0.6, 0.7]"
+CATTIVE INTENZIONI (feat. Salmo),Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.761,0.84,1,-3.278,1,0.275,0.174,0.0,0.129,0.579,98.055,168742,4,walk,"[0.5, 0.6, 0.7]"
+Take 4,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.742,0.644,5,-4.42,0,0.197,0.187,0.0,0.163,0.32,124.033,170572,4,walk,"[0.5, 0.6, 0.7]"
+"EVERYDAY (feat. Shiva, ANNA, Geolier)",Takagi & Ketra,"['italian adult pop', 'italian pop']",0.748,0.516,1,-6.77,0,0.1,0.499,0.0,0.127,0.465,78.038,190189,4,walk,"[0.5, 0.6, 0.7]"
+LONELY,Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.541,0.554,6,-8.52,0,0.386,0.314,0.0,0.162,0.521,132.139,208636,3,walk,"[0.5, 0.6, 0.7]"
+COL CUORE IN GOLA - lords of dogtown,Emis Killa,"['italian hip hop', 'italian pop']",0.791,0.549,0,-10.561,0,0.0643,0.238,0.0,0.198,0.472,129.97,188640,4,walk,"[0.5, 0.6, 0.7]"
+Prefissi,Guè,"['italian hip hop', 'italian pop']",0.536,0.8,5,-5.81,1,0.217,0.512,0.0,0.383,0.747,81.721,195662,4,walk,"[0.5, 0.6, 0.7]"
+3 DI CUORI (feat. Lazza),ANNA,"['italian hip hop', 'italian pop']",0.465,0.844,5,-4.355,0,0.203,0.174,0.0,0.173,0.581,100.122,177600,4,walk,"[0.5, 0.6, 0.7]"
+TUTTI HANNO PAURA (feat. Marco Mengoni),Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.698,0.802,3,-5.325,0,0.309,0.157,0.000174,0.158,0.238,92.922,212424,4,walk,"[0.5, 0.6, 0.7]"
+Non lo Sai,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.585,0.678,0,-6.851,0,0.0888,0.106,0.0,0.139,0.162,127.959,228342,4,walk,"[0.5, 0.6, 0.7]"
+Allenamento #2,Capo Plaza,"['italian hip hop', 'italian pop', 'trap italiana']",0.86,0.601,1,-7.247,0,0.509,0.406,0.0,0.103,0.0589,80.019,151422,4,walk,"[0.5, 0.6, 0.7]"
+CHIAGNE (feat. Lazza & Takagi & Ketra),Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.716,0.737,6,-5.831,0,0.0578,0.115,0.0,0.0922,0.584,131.947,179864,4,walk,"[0.5, 0.6, 0.7]"
+VISCERALE - closer,Emis Killa,"['italian hip hop', 'italian pop']",0.708,0.611,8,-6.019,1,0.331,0.292,0.0,0.106,0.221,84.43,184160,4,walk,"[0.5, 0.6, 0.7]"
+Free (feat. Marracash & Rkomi),Guè,"['italian hip hop', 'italian pop']",0.682,0.648,0,-6.666,1,0.358,0.457,0.0,0.356,0.687,78.312,190587,4,walk,"[0.5, 0.6, 0.7]"
+Raggi Del Sole,BLANCO,"['italian hip hop', 'italian pop']",0.674,0.861,9,-2.987,0,0.0582,0.144,0.0,0.2,0.635,130.055,191333,4,walk,"[0.5, 0.6, 0.7]"
+BASTAVA LA METÀ (feat. Gaia & Guè),Ernia,"['italian hip hop', 'italian pop', 'milan indie']",0.654,0.766,2,-5.051,1,0.239,0.183,0.0,0.376,0.572,175.991,195476,4,walk,"[0.5, 0.6, 0.7]"
+Naturale,Shiva,"['italian hip hop', 'italian pop', 'trap italiana']",0.709,0.536,5,-6.13,0,0.305,0.386,4.97e-06,0.138,0.324,94.508,166737,4,walk,"[0.5, 0.6, 0.7]"
+"PAROLE (Sono solo parole) (feat. Noemi, Lazza & Tedua)",Drillionaire,['italian hip hop'],0.419,0.717,0,-6.149,0,0.194,0.0132,0.0,0.367,0.332,139.742,256512,4,walk,"[0.5, 0.6, 0.7]"
+HERE I COME,Geolier,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",0.446,0.654,9,-5.593,1,0.245,0.024,0.0,0.287,0.694,81.277,142691,4,walk,"[0.5, 0.6, 0.7]"
+TOXIC - trainspotting,Emis Killa,"['italian hip hop', 'italian pop']",0.858,0.714,2,-6.467,1,0.0728,0.0936,3.28e-05,0.145,0.545,113.99,180000,4,walk,"[0.5, 0.6, 0.7]"
+Topless,Geeno,[],0.701,0.776,9,-6.723,1,0.174,0.144,0.0,0.118,0.853,91.986,180063,4,walk,"[0.5, 0.6, 0.7]"
+Nuketown (feat. Juice WRLD),Ski Mask The Slump God,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap']",0.808,0.617,10,-9.32,0,0.442,0.113,0.0,0.734,0.632,149.962,166400,4,sport,"[0.8, 0.9, 1]"
+The Grinch,Trippie Redd,"['melodic rap', 'rap', 'trap']",0.721,0.496,8,-6.296,1,0.0645,0.14,0.000101,0.102,0.18,81.499,91288,4,sport,"[0.8, 0.9, 1]"
+R.I.P.,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",0.725,0.725,8,-6.067,0,0.159,0.0119,0.0,0.086,0.515,140.003,192027,4,sport,"[0.8, 0.9, 1]"
+Green Dot,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",0.758,0.701,6,-4.925,1,0.361,0.106,0.0,0.0752,0.693,167.092,186880,4,sport,"[0.8, 0.9, 1]"
+Mercury: Retrograde,Ghostemane,"['cloud rap', 'dark trap', 'florida rap']",0.826,0.816,2,-7.345,1,0.345,0.0581,0.00938,0.0593,0.43,156.995,124539,4,sport,"[0.8, 0.9, 1]"
+Faneto,Chief Keef,"['chicago bop', 'chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'southern hip hop', 'trap']",0.849,0.755,1,-7.4,0,0.363,0.346,0.0,0.0564,0.393,144.188,206655,4,sport,"[0.8, 0.9, 1]"
+Bonfire,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",0.506,0.745,1,-6.041,1,0.332,0.0594,0.0,0.373,0.284,161.798,192947,4,sport,"[0.8, 0.9, 1]"
+BILLY,6ix9ine,['emo rap'],0.759,0.704,4,-4.03,0,0.3,0.184,0.0,0.104,0.748,90.055,112667,4,sport,"[0.8, 0.9, 1]"
+Go Stupid,Polo G,"['chicago rap', 'rap']",0.92,0.833,1,-3.18,1,0.253,0.0277,0.0,0.0596,0.645,141.034,165726,4,sport,"[0.8, 0.9, 1]"
+Look At Me!,XXXTENTACION,"['emo rap', 'miami hip hop']",0.763,0.726,1,-6.405,1,0.282,0.259,0.0,0.0976,0.349,139.059,126346,4,sport,"[0.8, 0.9, 1]"
+Paris,$uicideboy$,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",0.849,0.648,7,-6.188,1,0.0835,0.0706,0.00636,0.0984,0.195,106.058,111020,4,sport,"[0.8, 0.9, 1]"
+Take A Step Back,Ski Mask The Slump God,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap']",0.8,0.591,6,-8.808,1,0.271,0.111,0.0,0.429,0.747,117.003,210387,4,sport,"[0.8, 0.9, 1]"
+KNIGHT CRAWLER,Trippie Redd,"['melodic rap', 'rap', 'trap']",0.687,0.772,0,-3.52,1,0.221,0.0429,0.0,0.241,0.445,130.127,177231,4,sport,"[0.8, 0.9, 1]"
+Stop Breathing,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",0.856,0.57,9,-4.486,1,0.286,0.00637,0.0,0.0984,0.155,154.967,218943,4,sport,"[0.8, 0.9, 1]"
+Bad Bad,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",0.682,0.809,3,-4.331,0,0.378,0.491,0.0,0.217,0.812,180.088,138683,4,sport,"[0.8, 0.9, 1]"
+"Crazy Story, Pt. 3",King Von,['chicago rap'],0.729,0.73,11,-5.14,0,0.261,0.00165,4.33e-05,0.118,0.41,156.953,191399,4,sport,"[0.8, 0.9, 1]"
+I Don't Like,Chief Keef,"['chicago bop', 'chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'southern hip hop', 'trap']",0.742,0.844,2,-4.622,1,0.0479,0.000634,0.0,0.0659,0.416,131.986,293840,4,sport,"[0.8, 0.9, 1]"
+Achoo,Keith Ape,"['korean trap', 'underground hip hop']",0.659,0.839,2,-4.106,1,0.162,0.167,0.0,0.389,0.624,119.935,244000,4,sport,"[0.8, 0.9, 1]"
+NO SNITCHING (with Dusty Locane),Lil Mabu,['meme'],0.729,0.64,1,-8.8,1,0.352,0.0595,0.0,0.348,0.413,156.029,160007,4,sport,"[0.8, 0.9, 1]"
+WiFi,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",0.929,0.492,1,-6.701,1,0.387,0.152,0.0,0.108,0.667,120.007,160000,4,sport,"[0.8, 0.9, 1]"
+YuNg BrAtZ,XXXTENTACION,"['emo rap', 'miami hip hop']",0.755,0.695,9,-5.963,1,0.26,0.0179,0.0,0.107,0.493,128.063,101851,4,sport,"[0.8, 0.9, 1]"
+For the Last Time,$uicideboy$,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",0.844,0.533,1,-9.612,1,0.552,0.0735,3.46e-06,0.0953,0.23,140.078,156081,4,sport,"[0.8, 0.9, 1]"
+Unbothered,Ski Mask The Slump God,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap']",0.884,0.445,1,-10.58,0,0.418,0.222,0.0,0.112,0.851,125.008,138427,4,sport,"[0.8, 0.9, 1]"
+I <3 My Choppa,Tay-K,"['cali rap', 'dfw rap', 'rap', 'trap']",0.732,0.47,0,-7.601,0,0.244,0.000279,0.0,0.119,0.411,159.936,105000,4,sport,"[0.8, 0.9, 1]"
+New Tank,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",0.819,0.638,10,-4.831,0,0.226,0.031,0.000116,0.152,0.167,150.993,89741,4,sport,"[0.8, 0.9, 1]"
+FREEDDAWG,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",0.74,0.555,1,-10.329,1,0.407,0.00581,1.23e-06,0.296,0.706,173.974,111882,4,sport,"[0.8, 0.9, 1]"
+Neva Cared,Polo G,"['chicago rap', 'rap']",0.822,0.35,1,-12.207,0,0.574,0.0213,0.0,0.0757,0.346,77.528,186000,4,sport,"[0.8, 0.9, 1]"
+Curse,Bass Santana,"['miami hip hop', 'underground hip hop']",0.556,0.64,11,-7.504,1,0.445,0.552,0.0,0.215,0.703,88.399,118361,5,sport,"[0.8, 0.9, 1]"
+Computer Murderers,Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",0.672,0.564,1,-10.418,1,0.183,0.000408,0.0,0.0893,0.195,173.007,139533,4,sport,"[0.8, 0.9, 1]"
+SUMO | ZUMO,Denzel Curry,"['dark trap', 'drill', 'hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",0.822,0.861,11,-8.846,1,0.0832,0.25,7e-05,0.164,0.548,123.964,227373,4,sport,"[0.8, 0.9, 1]"
+Neighborhood Superstar,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",0.821,0.714,2,-5.977,1,0.374,0.109,0.0,0.298,0.665,81.393,235583,4,sport,"[0.8, 0.9, 1]"
+3 A.M.,King Von,['chicago rap'],0.885,0.485,1,-7.891,1,0.474,0.0401,0.0,0.103,0.073,139.989,126883,4,sport,"[0.8, 0.9, 1]"
+Now I'm up to My Neck with Offers,$uicideboy$,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",0.79,0.858,6,-6.414,0,0.416,0.0573,2.84e-05,0.202,0.35,137.894,167015,4,sport,"[0.8, 0.9, 1]"
+Like A Soccer Mom,Ski Mask The Slump God,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap']",0.78,0.654,10,-7.641,0,0.076,0.112,0.0,0.12,0.713,140.007,109819,4,sport,"[0.8, 0.9, 1]"
+Audi.,Smokepurpp,"['melodic rap', 'miami hip hop', 'trap', 'underground hip hop']",0.793,0.366,7,-10.051,1,0.136,0.0214,0.0,0.0964,0.278,122.991,159522,4,sport,"[0.8, 0.9, 1]"
+Rockstar Made,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",0.773,0.612,8,-5.73,1,0.232,0.0398,0.0,0.142,0.381,149.999,193575,4,sport,"[0.8, 0.9, 1]"
+Bring The Hook,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",0.693,0.656,10,-7.684,0,0.392,0.0865,0.0,0.73,0.802,162.072,265185,4,sport,"[0.8, 0.9, 1]"
+Mincemeat,Fukkit,"['dark trap', 'scream rap']",0.891,0.597,1,-6.347,1,0.691,0.00979,1.22e-05,0.105,0.464,155.977,101635,4,sport,"[0.8, 0.9, 1]"
+Body Bag (feat. Lil Wayne),Rich The Kid,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",0.564,0.744,6,-5.282,0,0.406,0.0917,0.0,0.109,0.528,79.186,149461,4,sport,"[0.8, 0.9, 1]"
+Should've Ducked (feat. Pooh Shiesty),Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",0.786,0.657,2,-5.142,1,0.339,0.00892,0.0,0.309,0.485,144.898,192052,4,sport,"[0.8, 0.9, 1]"
+SWITCH IT UP | ZWITCH 1T UP,Denzel Curry,"['dark trap', 'drill', 'hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",0.567,0.723,9,-5.33,0,0.29,0.0121,0.0,0.264,0.272,128.463,175907,4,sport,"[0.8, 0.9, 1]"
+Syphilis,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",0.782,0.659,1,-3.103,1,0.249,0.0703,0.0,0.168,0.337,148.027,131761,4,sport,"[0.8, 0.9, 1]"
+Crazy Story (feat. Lil Durk) - Remix,King Von,['chicago rap'],0.844,0.641,8,-4.893,0,0.363,0.014,3.27e-06,0.289,0.213,156.928,194980,4,sport,"[0.8, 0.9, 1]"
+Memoirs of a Gorilla,$uicideboy$,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",0.844,0.98,1,-1.259,1,0.0535,0.303,0.000751,0.55,0.316,110.005,122253,4,sport,"[0.8, 0.9, 1]"
+H2O,Ski Mask The Slump God,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap']",0.74,0.762,0,-1.313,1,0.33,0.189,0.0,0.4,0.892,139.943,139347,4,sport,"[0.8, 0.9, 1]"
+Pemex,Shakewell,['dark trap'],0.796,0.666,1,-5.285,1,0.0604,0.0143,2.22e-06,0.114,0.261,74.981,156238,4,sport,"[0.8, 0.9, 1]"
+On That Time,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",0.598,0.476,0,-3.673,1,0.0333,0.00584,0.0,0.265,0.0545,150.078,102422,4,sport,"[0.8, 0.9, 1]"
+Dis & That,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",0.78,0.589,5,-7.9,0,0.316,0.0446,0.0,0.222,0.635,81.989,175522,4,sport,"[0.8, 0.9, 1]"
+Killer Game (feat. Gemitaiz & Madman),Salmo,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap sardegna']",0.676,0.847,7,-4.992,1,0.291,0.0384,0.0,0.145,0.304,110.085,261160,4,sport,"[0.8, 0.9, 1]"
+"MACHETE SATELLITE (feat. Salmo, Taxi B & Greg Willen)",BLOODY VINYL,"['italian hip hop', 'trap italiana']",0.507,0.898,3,-4.493,0,0.477,0.079,0.0,0.0835,0.527,142.828,146987,4,sport,"[0.8, 0.9, 1]"
+Love Yourz,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",0.677,0.638,8,-8.631,1,0.333,0.589,0.0,0.193,0.435,82.81,211497,4,chill,"[0.2, 0.3, 0.4]"
+Rich Spirit,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",0.852,0.421,10,-9.153,0,0.208,0.428,2.28e-06,0.106,0.457,95.977,202285,4,chill,"[0.2, 0.3, 0.4]"
+Vultures,¥$,[],0.712,0.554,1,-6.982,0,0.211,0.157,0.0,0.12,0.535,146.086,237535,4,chill,"[0.2, 0.3, 0.4]"
+Doomsday,MF DOOM,"['alternative hip hop', 'east coast hip hop', 'hip hop', 'instrumental hip hop']",0.856,0.84,6,-7.736,0,0.334,0.0973,0.0,0.0773,0.792,95.416,298053,4,chill,"[0.2, 0.3, 0.4]"
+Everything I Am,Kanye West,"['chicago rap', 'hip hop', 'rap']",0.631,0.623,8,-6.969,1,0.265,0.463,1.7e-06,0.151,0.765,80.23,227893,4,chill,"[0.2, 0.3, 0.4]"
+Righteous Minds,Joey Bada$$,"['conscious hip hop', 'hip hop', 'rap']",0.809,0.638,8,-5.646,0,0.28,0.262,0.0,0.453,0.608,94.893,224043,4,chill,"[0.2, 0.3, 0.4]"
+Bonita Applebum,A Tribe Called Quest,"['conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'jazz rap', 'queens hip hop']",0.874,0.581,11,-7.942,1,0.168,0.0697,0.0239,0.416,0.663,91.916,217240,4,chill,"[0.2, 0.3, 0.4]"
+Write This Down,SoulChef,['ambeat'],0.824,0.818,10,-4.396,0,0.18,0.173,0.0136,0.21,0.844,92.978,189427,4,chill,"[0.2, 0.3, 0.4]"
+Potato Salad,"Tyler, The Creator","['hip hop', 'rap']",0.538,0.612,2,-6.02,1,0.424,0.308,0.0,0.213,0.684,168.197,182493,4,chill,"[0.2, 0.3, 0.4]"
+Made my day,tubakiii,['j-rap'],0.759,0.412,7,-6.23,1,0.402,0.654,0.0,0.128,0.938,80.028,255000,4,chill,"[0.2, 0.3, 0.4]"
+Wat's Wrong (feat. Zacari & Kendrick Lamar),Isaiah Rashad,"['hip hop', 'rap', 'tennessee hip hop', 'underground hip hop']",0.706,0.688,1,-6.357,1,0.269,0.151,0.0,0.466,0.313,125.966,330783,4,chill,"[0.2, 0.3, 0.4]"
+4 Your Eyez Only,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",0.701,0.485,11,-10.305,0,0.364,0.367,6.31e-05,0.0852,0.496,78.863,530253,4,chill,"[0.2, 0.3, 0.4]"
+A.D.H.D,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",0.609,0.799,9,-6.883,1,0.24,0.33,0.0,0.108,0.582,157.74,215509,4,chill,"[0.2, 0.3, 0.4]"
+"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",A$AP Rocky,"['east coast hip hop', 'hip hop', 'rap', 'trap']",0.394,0.661,4,-8.684,1,0.192,0.00996,0.0,0.343,0.335,149.818,260987,4,chill,"[0.2, 0.3, 0.4]"
+"Something to Rap About (feat. Tyler, The Creator)",Freddie Gibbs,"['alternative hip hop', 'hip hop', 'indiana hip hop', 'rap', 'underground hip hop']",0.406,0.524,5,-11.071,1,0.255,0.469,3.95e-06,0.117,0.412,56.046,282560,4,chill,"[0.2, 0.3, 0.4]"
+Runaway,Kanye West,"['chicago rap', 'hip hop', 'rap']",0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,547733,4,chill,"[0.2, 0.3, 0.4]"
+Head High,Joey Bada$$,"['conscious hip hop', 'hip hop', 'rap']",0.618,0.864,2,-3.838,1,0.371,0.0969,0.0,0.19,0.597,169.978,180827,4,chill,"[0.2, 0.3, 0.4]"
+Soundtrack 2 My Life,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",0.464,0.754,9,-6.653,0,0.128,0.465,1.57e-05,0.37,0.444,86.501,235627,4,chill,"[0.2, 0.3, 0.4]"
+Feather (feat. Cise Starr & Akin from CYNE),Nujabes,"['ambeat', 'chillhop', 'downtempo', 'instrumental hip hop', 'japanese chillhop', 'japanese old school hip hop', 'jazz rap']",0.565,0.749,10,-6.629,0,0.0769,0.655,0.432,0.106,0.881,180.598,175360,4,chill,"[0.2, 0.3, 0.4]"
+Over My Dead Body,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",0.489,0.57,1,-10.291,1,0.306,0.759,2.1e-06,0.179,0.584,185.516,272573,4,chill,"[0.2, 0.3, 0.4]"
+Kool Aid & Frozen Pizza,Mac Miller,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap']",0.66,0.845,11,-4.57,1,0.301,0.154,0.0,0.294,0.706,89.769,157540,4,chill,"[0.2, 0.3, 0.4]"
+LONELY NIGHTS,tofubeats,"['japanese electropop', 'japanese r&b']",0.866,0.704,11,-6.628,0,0.0386,0.363,0.0,0.0696,0.884,134.019,236484,4,chill,"[0.2, 0.3, 0.4]"
+Wet Dreamz,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",0.495,0.722,6,-8.108,0,0.357,0.0697,0.0,0.113,0.539,175.627,239267,4,chill,"[0.2, 0.3, 0.4]"
+Money Trees,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",0.716,0.531,7,-7.355,1,0.122,0.0703,0.0,0.224,0.344,71.994,386907,4,chill,"[0.2, 0.3, 0.4]"
+Phoenix,A$AP Rocky,"['east coast hip hop', 'hip hop', 'rap', 'trap']",0.644,0.515,9,-11.274,0,0.143,0.589,0.00522,0.0847,0.519,144.072,233880,4,chill,"[0.2, 0.3, 0.4]"
+Sit Back (feat. Truthos Mufasa & Black Josh),The Mouse Outfit,"['manchester hip hop', 'uk alternative hip hop']",0.81,0.618,3,-7.265,0,0.146,0.661,3.93e-05,0.174,0.888,93.719,213189,4,chill,"[0.2, 0.3, 0.4]"
+Heaven’s EP (with J. Cole),Dreamville,"['hip hop', 'pop rap', 'rap']",0.686,0.667,2,-7.284,1,0.426,0.296,0.0,0.218,0.667,77.977,178292,4,chill,"[0.2, 0.3, 0.4]"
+FOR MY PEOPLE,Joey Bada$$,"['conscious hip hop', 'hip hop', 'rap']",0.672,0.704,11,-6.628,0,0.165,0.111,0.0,0.115,0.188,100.986,232765,4,chill,"[0.2, 0.3, 0.4]"
+Just What I Am,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",0.654,0.95,1,-3.163,1,0.137,0.00223,0.0,0.406,0.351,140.009,228027,4,chill,"[0.2, 0.3, 0.4]"
+Luv(sic.) pt3 (feat. Shing02),Nujabes,"['ambeat', 'chillhop', 'downtempo', 'instrumental hip hop', 'japanese chillhop', 'japanese old school hip hop', 'jazz rap']",0.866,0.691,5,-4.371,0,0.0478,0.727,0.503,0.0737,0.87,94.997,336867,4,chill,"[0.2, 0.3, 0.4]"
+すきにやる,HENTAI SHINSHI CLUB,[],0.7,0.689,1,-7.016,1,0.0857,0.15,0.0,0.156,0.713,93.132,217037,4,chill,"[0.2, 0.3, 0.4]"
+The Eponym,Chill Bump,['jazz rap'],0.756,0.646,1,-6.898,1,0.276,0.284,0.0,0.569,0.803,160.265,144870,4,chill,"[0.2, 0.3, 0.4]"
+Killem with Kindness,Dizzy Wright,"['conscious hip hop', 'indie pop rap', 'underground hip hop']",0.712,0.61,2,-6.786,0,0.238,0.0299,0.0,0.0941,0.587,87.978,208275,4,chill,"[0.2, 0.3, 0.4]"
+In The Morning,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",0.44,0.671,3,-10.598,0,0.477,0.764,0.0,0.212,0.479,83.078,234387,4,chill,"[0.2, 0.3, 0.4]"
+Father Time (feat. Sampha),Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",0.514,0.779,10,-4.365,0,0.344,0.181,0.0,0.099,0.517,152.869,222497,4,chill,"[0.2, 0.3, 0.4]"
+月ひとつ,BASI,"['j-rap', 'japanese r&b']",0.755,0.594,2,-6.719,1,0.299,0.644,4.26e-06,0.307,0.807,84.002,222920,4,chill,"[0.2, 0.3, 0.4]"
+Got Me Thinkin' (feat. Sparkz),The Mouse Outfit,"['manchester hip hop', 'uk alternative hip hop']",0.813,0.412,6,-8.356,0,0.205,0.561,0.00477,0.107,0.427,90.807,223773,4,chill,"[0.2, 0.3, 0.4]"
+Two Tens (feat. Anderson .Paak),Cordae,"['hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",0.603,0.546,4,-7.525,0,0.35,0.194,2.68e-06,0.0783,0.667,87.99,152372,4,chill,"[0.2, 0.3, 0.4]"
+Shine,Joey Bada$$,"['conscious hip hop', 'hip hop', 'rap']",0.447,0.619,10,-4.301,0,0.25,0.0851,0.0,0.0965,0.468,78.57,171947,1,chill,"[0.2, 0.3, 0.4]"
+Indica Badu,Logic,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",0.742,0.72,0,-2.876,1,0.116,0.0402,0.000846,0.0839,0.97,77.011,260320,4,chill,"[0.2, 0.3, 0.4]"
+Lady Brown (feat. Cise Starr from CYNE),Nujabes,"['ambeat', 'chillhop', 'downtempo', 'instrumental hip hop', 'japanese chillhop', 'japanese old school hip hop', 'jazz rap']",0.499,0.874,0,-4.586,1,0.097,0.611,0.000639,0.0703,0.861,97.317,199160,4,chill,"[0.2, 0.3, 0.4]"
+Pharsyde (feat. Joe Fox),A$AP Rocky,"['east coast hip hop', 'hip hop', 'rap', 'trap']",0.642,0.56,7,-15.123,1,0.0848,0.0541,0.752,0.131,0.499,130.003,222333,4,chill,"[0.2, 0.3, 0.4]"
+Not Today,Chill Bump,['jazz rap'],0.934,0.458,6,-10.435,1,0.08,0.462,2.36e-05,0.123,0.767,111.707,190400,3,chill,"[0.2, 0.3, 0.4]"
+Emotionless,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",0.414,0.677,1,-5.12,1,0.254,0.0248,0.0,0.0793,0.0853,172.521,302173,4,chill,"[0.2, 0.3, 0.4]"
+Apparently,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",0.802,0.544,5,-9.212,1,0.0686,0.605,0.0,0.102,0.57,133.992,292865,4,chill,"[0.2, 0.3, 0.4]"
+Poetic Justice,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",0.779,0.572,6,-9.985,0,0.378,0.157,0.0,0.246,0.647,135.956,300160,4,chill,"[0.2, 0.3, 0.4]"
+Scottie Beam,Freddie Gibbs,"['alternative hip hop', 'hip hop', 'indiana hip hop', 'rap', 'underground hip hop']",0.523,0.654,6,-9.531,0,0.216,0.815,8.34e-06,0.211,0.544,79.192,244053,4,chill,"[0.2, 0.3, 0.4]"
+Street Jazz,Awon,['jazz rap'],0.672,0.648,1,-7.275,0,0.333,0.744,0.0,0.114,0.64,93.114,154838,4,chill,"[0.2, 0.3, 0.4]"
+WAIT FOR U (feat. Drake & Tems),Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,189893,4,chill,"[0.2, 0.3, 0.4]"
+500 Benz,Joey Bada$$,"['conscious hip hop', 'hip hop', 'rap']",0.676,0.763,11,-7.604,0,0.198,0.186,1.92e-06,0.107,0.624,87.967,201818,4,chill,"[0.2, 0.3, 0.4]"
+Boyz In Paris (with VINAI),Marnik,"['dutch house', 'sky room']",0.554,0.968,1,-4.178,1,0.0695,0.0326,4.2e-05,0.304,0.415,74.465,151590,4,sport,"[0.8, 0.9, 1]"
+Prada,cassö,[],0.638,0.717,8,-5.804,1,0.0375,0.001,1.79e-06,0.113,0.422,141.904,132359,4,sport,"[0.8, 0.9, 1]"
+Vois sur ton chemin - Techno Mix,BENNETT,[],0.634,0.824,2,-3.394,0,0.047,0.0908,0.0711,0.119,0.371,137.959,178156,4,sport,"[0.8, 0.9, 1]"
+Breathe,CamelPhat,"['deep tech house', 'house', 'progressive house', 'uk dance']",0.595,0.877,9,-7.414,0,0.0442,0.00646,0.0879,0.398,0.081,125.015,194233,4,sport,"[0.8, 0.9, 1]"
+Push Up - Main Edit,Creeds,[],0.767,0.83,7,-8.78,1,0.206,0.209,0.836,0.0582,0.187,75.023,139300,4,sport,"[0.8, 0.9, 1]"
+Sandstorm,Darude,"['eurodance', 'finnish edm']",0.532,0.967,11,-7.977,0,0.0457,0.146,0.985,0.115,0.59,136.083,225667,4,sport,"[0.8, 0.9, 1]"
+Hey Boy Hey Girl,The Chemical Brothers,"['alternative dance', 'big beat', 'breakbeat', 'electronica', 'rave', 'trip hop']",0.632,0.92,2,-4.976,1,0.0531,0.119,0.508,0.114,0.363,127.001,290493,4,sport,"[0.8, 0.9, 1]"
+Jungle,Fred again..,"['edm', 'house', 'stutter house']",0.665,0.727,1,-8.073,0,0.0391,0.00984,0.394,0.172,0.397,133.922,198806,4,sport,"[0.8, 0.9, 1]"
+Adagio For Strings - Radio Edit,Tiësto,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",0.49,0.916,10,-8.663,0,0.0461,0.0202,0.939,0.119,0.367,139.976,205053,4,sport,"[0.8, 0.9, 1]"
+Slip Away,Arthur Wills,[],0.602,0.918,7,-5.771,1,0.0484,0.00365,0.0214,0.409,0.369,126.031,175281,4,sport,"[0.8, 0.9, 1]"
+Apricots,Bicep,"['ambient house', 'electronica']",0.819,0.599,11,-6.778,1,0.039,0.347,0.824,0.083,0.489,127.986,246507,4,sport,"[0.8, 0.9, 1]"
+Born Slippy (Nuxx),Underworld,"['big beat', 'electronica']",0.576,0.953,10,-8.968,1,0.0362,0.00106,0.49,0.474,0.303,140.042,456480,4,sport,"[0.8, 0.9, 1]"
+On Repeat,Julien Fade,[],0.818,0.715,8,-8.067,1,0.0338,0.0905,0.0144,0.1,0.0384,126.0,172576,4,sport,"[0.8, 0.9, 1]"
+Ecuador - Original Radio Edit,Sash!,"['eurodance', 'german techno']",0.591,0.888,4,-6.836,1,0.0354,0.00223,0.699,0.396,0.588,132.885,212133,4,sport,"[0.8, 0.9, 1]"
+Cola,CamelPhat,"['deep tech house', 'house', 'progressive house', 'uk dance']",0.706,0.74,6,-7.904,1,0.0325,0.0245,0.512,0.135,0.444,122.007,223869,3,sport,"[0.8, 0.9, 1]"
+Yeah!,DJSM,['covertronica'],0.796,0.933,7,-5.103,1,0.0838,0.00621,0.00609,0.291,0.661,126.006,146384,4,sport,"[0.8, 0.9, 1]"
+Do It To It,ACRAZE,"['pop dance', 'tech house']",0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,157890,4,sport,"[0.8, 0.9, 1]"
+Kernkraft 400,GYMBRO,[],0.481,0.95,4,-6.706,1,0.0823,0.0069,0.843,0.408,0.0394,140.057,126915,4,sport,"[0.8, 0.9, 1]"
+Make Believe,FVTM,['covertronica'],0.749,0.742,4,-8.194,0,0.0441,0.00281,0.217,0.0851,0.549,123.993,177585,4,sport,"[0.8, 0.9, 1]"
+Freed From The Whole,Rudeejay,[],0.609,0.876,4,-4.587,1,0.0776,0.00736,0.025,0.16,0.624,139.958,154025,4,sport,"[0.8, 0.9, 1]"
+For An Angel - PVD Angel In Heaven Radio Edit,Paul van Dyk,"['german techno', 'trance', 'uplifting trance']",0.668,0.982,9,-7.979,0,0.0331,0.0437,0.849,0.887,0.591,138.223,233243,4,sport,"[0.8, 0.9, 1]"
+Silence - DJ Tiësto's In Search Of Sunrise Edit,Delerium,['gregorian dance'],0.602,0.847,11,-5.998,0,0.0588,0.00887,0.0308,0.0622,0.0871,138.037,235200,4,sport,"[0.8, 0.9, 1]"
+Good Love,Hannah Laing,['charva'],0.775,0.817,1,-4.921,1,0.0656,0.127,0.00273,0.215,0.386,140.033,169535,4,sport,"[0.8, 0.9, 1]"
+Children,Robert Miles,"['dream trance', 'eurodance', 'trance']",0.604,0.755,0,-10.761,1,0.0337,0.000298,0.817,0.0625,0.387,137.064,243267,4,sport,"[0.8, 0.9, 1]"
+Love Tonight (David Guetta Remix Edit),Shouse,['aussietronica'],0.621,0.989,10,-4.225,0,0.0434,0.015,0.357,0.184,0.0348,126.002,158095,4,sport,"[0.8, 0.9, 1]"
+Opus,Eric Prydz,"['dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",0.275,0.721,6,-6.222,0,0.0359,0.000702,0.821,0.0792,0.184,125.156,543453,4,sport,"[0.8, 0.9, 1]"
+"1, 2 Step",DJSM,['covertronica'],0.808,0.953,7,-5.767,1,0.105,0.0024,0.00318,0.116,0.838,129.964,150103,4,sport,"[0.8, 0.9, 1]"
+Fire!,Matt Mirter,[],0.708,0.89,6,-5.59,0,0.0618,0.0244,0.00843,0.04,0.531,127.984,165966,4,sport,"[0.8, 0.9, 1]"
+You Know What,Robin Aristo,[],0.676,0.944,7,-3.41,1,0.13,0.00647,0.0823,0.451,0.45,126.02,141929,4,sport,"[0.8, 0.9, 1]"
+Move Your Body,Awnix & Toobaï,[],0.854,0.792,9,-4.234,1,0.147,0.00611,0.774,0.193,0.751,128.021,232500,4,sport,"[0.8, 0.9, 1]"
+Lay Low,Tiësto,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",0.705,0.663,9,-5.289,0,0.0367,0.18,6.74e-06,0.0924,0.38,124.988,140160,4,sport,"[0.8, 0.9, 1]"
+DNA (Loving You) [feat. Hannah Boleyn],Billy Gillies,['tech trance'],0.731,0.867,9,-6.169,0,0.0576,0.0112,0.0291,0.0863,0.23,142.048,164920,4,sport,"[0.8, 0.9, 1]"
+Tango,Lister,['melbourne bounce'],0.691,0.984,11,-4.989,1,0.164,0.00976,0.449,0.4,0.576,129.963,143996,4,sport,"[0.8, 0.9, 1]"
+Prada - Extended,cassö,[],0.8,0.859,5,-7.082,0,0.0537,7.3e-05,0.00508,0.0743,0.582,141.988,246444,4,sport,"[0.8, 0.9, 1]"
+Satisfaction,David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",0.752,0.935,11,-6.263,1,0.203,0.0742,0.0352,0.081,0.31,126.022,155677,4,sport,"[0.8, 0.9, 1]"
+Rabbit Hole,CamelPhat,"['deep tech house', 'house', 'progressive house', 'uk dance']",0.602,0.866,9,-6.913,1,0.034,0.00986,0.0234,0.203,0.288,123.988,189498,4,sport,"[0.8, 0.9, 1]"
+Tell Me Something Good,Ewan McVicar,['scottish techno'],0.812,0.796,8,-10.548,1,0.0356,0.00826,0.921,0.365,0.961,125.976,249679,4,sport,"[0.8, 0.9, 1]"
+Born Slippy (Nuxx) - Radio Edit,Underworld,"['big beat', 'electronica']",0.542,0.966,10,-8.255,1,0.0421,0.00107,0.128,0.0984,0.351,140.071,264187,4,sport,"[0.8, 0.9, 1]"
+"Kernkraft 400 - DJ Gius Mix, Radio Edit",Zombie Nation,['german techno'],0.714,0.528,6,-8.789,1,0.0692,0.00415,0.854,0.0819,0.297,139.983,207267,4,sport,"[0.8, 0.9, 1]"
+Creep - BYOR Remix,Naeleck,['electro'],0.696,0.775,6,-6.539,1,0.0388,0.00393,0.104,0.378,0.435,126.979,156850,4,sport,"[0.8, 0.9, 1]"
+My Crew,Acina,[],0.732,0.739,2,-5.064,1,0.0784,0.131,0.0112,0.385,0.268,128.019,149147,4,sport,"[0.8, 0.9, 1]"
+Transmission - Joris Voorn Remix,Eelke Kleijn,"['dark progressive house', 'minimal melodic techno']",0.711,0.838,2,-7.985,1,0.0423,0.292,0.927,0.146,0.223,124.002,224274,4,sport,"[0.8, 0.9, 1]"
+Work It,Rawdolff,[],0.857,0.68,7,-6.677,1,0.232,0.00228,0.00018,0.324,0.48,134.995,182430,4,sport,"[0.8, 0.9, 1]"
+Give It To Me - Full Vocal Mix,Matt Sassari,"['french tech house', 'french techno', 'tech house']",0.874,0.869,1,-5.996,0,0.0315,0.00116,0.00238,0.164,0.726,126.027,102861,4,sport,"[0.8, 0.9, 1]"
+Techno Disco Tool - Radio Edit,Mella Dee,['bass house'],0.766,0.947,3,-6.097,0,0.0361,0.00504,0.0513,0.282,0.71,129.973,194308,4,sport,"[0.8, 0.9, 1]"
+Life Gets Hard,Akros,['hardtekk'],0.739,0.631,8,-10.539,1,0.121,0.608,0.0485,0.105,0.233,125.094,124800,3,sport,"[0.8, 0.9, 1]"
+Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix,Swedish House Mafia,"['edm', 'pop dance', 'progressive electro house']",0.683,0.825,7,-6.175,1,0.0424,0.000833,0.727,0.232,0.0451,126.023,253433,4,sport,"[0.8, 0.9, 1]"
+We Do What We Want,Alan Fitzpatrick,"['deep minimal techno', 'house', 'minimal techno', 'techno']",0.77,0.966,6,-6.703,1,0.0422,0.000438,0.932,0.098,0.349,126.01,505577,4,sport,"[0.8, 0.9, 1]"
+Pump It Up,Endor,"['deep groove house', 'scottish rock']",0.899,0.894,1,-7.255,1,0.222,0.203,9.95e-05,0.0606,0.654,129.047,150635,4,sport,"[0.8, 0.9, 1]"
+Jumping All Over The World,Scooter,"['eurodance', 'german techno', 'hamburg electronic', 'happy hardcore']",0.576,0.967,2,-5.73,1,0.0911,0.0188,0.32,0.514,0.552,150.001,228822,4,sport,"[0.8, 0.9, 1]"
+Si No Estás,iñigo quintero,[],0.537,0.421,5,-8.72,1,0.0285,0.827,0.0,0.138,0.524,98.224,184061,4,depressed,[0]
+Love The Way You Lie,Eminem,"['detroit hip hop', 'hip hop', 'rap']",0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,263373,4,depressed,[0]
+I Remember Everything (feat. Kacey Musgraves),Zach Bryan,"['classic oklahoma country', 'modern country pop']",0.429,0.453,0,-7.746,1,0.0459,0.554,2e-06,0.102,0.155,77.639,227196,4,depressed,[0]
+lovely (with Khalid),Billie Eilish,"['art pop', 'pop']",0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,200186,4,depressed,[0]
+Hold On,Chord Overstreet,['acoustic pop'],0.618,0.443,2,-9.681,1,0.0526,0.469,0.0,0.0829,0.167,119.949,198853,4,depressed,[0]
+Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']",0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,182161,4,depressed,[0]
+Jocelyn Flores,XXXTENTACION,"['emo rap', 'miami hip hop']",0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,4,depressed,[0]
+If the World Was Ending (feat. Julia Michaels),JP Saxe,"['alt z', 'canadian contemporary r&b', 'singer-songwriter pop']",0.429,0.486,1,-9.971,1,0.101,0.866,0.0,0.0982,0.661,146.99,209493,4,depressed,[0]
+Let Me Down Slowly,Alec Benjamin,"['alt z', 'pop', 'pov: indie']",0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,169354,4,depressed,[0]
+Heather,Conan Gray,"['bedroom pop', 'pop', 'pov: indie']",0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,198040,3,depressed,[0]
+Half A Man,Dean Lewis,"['australian pop', 'pop']",0.507,0.204,0,-11.575,1,0.0504,0.855,0.0,0.143,0.343,77.765,179120,4,depressed,[0]
+Jealous,Labrinth,"['indie poptimism', 'pop']",0.439,0.153,1,-8.95,1,0.0479,0.874,0.0,0.107,0.104,116.76,287693,3,depressed,[0]
+when the party's over,Billie Eilish,"['art pop', 'pop']",0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,196077,4,depressed,[0]
+Revenge,XXXTENTACION,"['emo rap', 'miami hip hop']",0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,120027,4,depressed,[0]
+Hold Me While You Wait,Lewis Capaldi,"['pop', 'uk pop']",0.688,0.53,11,-5.507,1,0.0333,0.443,0.0,0.0995,0.162,106.958,205687,4,depressed,[0]
+Dancing With Your Ghost,Sasha Alex Sloan,['alt z'],0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953,197732,4,depressed,[0]
+hate u love u,Olivia O'Brien,"['alt z', 'pop']",0.407,0.416,6,-8.915,0,0.174,0.656,0.0,0.0981,0.246,176.947,175467,4,depressed,[0]
+Dancing On My Own,Calum Scott,['pop'],0.681,0.174,1,-8.745,1,0.0315,0.837,3.35e-05,0.0983,0.231,112.672,260285,4,depressed,[0]
+you broke me first,Tate McRae,"['alt z', 'pop']",0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,0.0823,124.148,169266,4,depressed,[0]
+you were good to me,Jeremy Zucker,"['alt z', 'electropop', 'pop']",0.561,0.0848,2,-15.099,1,0.0404,0.913,2.62e-05,0.112,0.206,102.128,219147,4,depressed,[0]
+"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,"['art pop', 'pop']",0.444,0.0911,0,-17.665,1,0.0307,0.959,1.05e-06,0.098,0.142,78.403,222370,4,depressed,[0]
+changes,XXXTENTACION,"['emo rap', 'miami hip hop']",0.669,0.308,11,-10.068,1,0.029,0.883,0.0,0.0984,0.52,64.934,121887,4,depressed,[0]
+Why Am I Waiting,Papithbk,"['australian trap', 'sad lo-fi', 'sad rap']",0.747,0.387,1,-10.671,1,0.471,0.347,0.0,0.254,0.234,126.054,95680,4,depressed,[0]
+Romantic Homicide,d4vd,"['bedroom pop', 'bedroom r&b']",0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,132631,4,depressed,[0]
+Locksmith,Sadie Jean,"['alt z', 'singer-songwriter pop']",0.566,0.348,1,-10.726,1,0.0458,0.559,7.66e-06,0.113,0.374,98.734,164082,4,depressed,[0]
+Losing Interest,itssvd,"['lo-fi chill', 'sad lo-fi']",0.753,0.355,8,-13.295,0,0.0898,0.48,0.87,0.122,0.506,111.863,120547,4,depressed,[0]
+The Night We Met,Lord Huron,"['indie folk', 'stomp and holler']",0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,208212,3,depressed,[0]
+Loosing Interest,Timmies,"['lo-fi chill', 'sad lo-fi']",0.926,0.199,10,-13.635,0,0.0916,0.51,0.119,0.224,0.763,113.952,117917,4,depressed,[0]
+Love Is a Drug,Papithbk,"['australian trap', 'sad lo-fi', 'sad rap']",0.833,0.293,7,-17.24,1,0.416,0.785,0.0,0.103,0.42,110.06,100120,4,depressed,[0]
+TV,Billie Eilish,"['art pop', 'pop']",0.412,0.236,4,-15.159,0,0.0379,0.83,0.00653,0.147,0.119,140.214,281381,4,depressed,[0]
+Purpose,Justin Bieber,"['canadian pop', 'pop']",0.481,0.285,0,-10.848,1,0.0424,0.9,0.0,0.123,0.316,130.029,210160,4,depressed,[0]
+Carry On,XXXTENTACION,"['emo rap', 'miami hip hop']",0.735,0.197,3,-13.378,0,0.537,0.768,0.000276,0.296,0.383,147.899,129720,4,depressed,[0]
+Be Alright,Dean Lewis,"['australian pop', 'pop']",0.551,0.537,11,-7.595,1,0.034,0.705,0.0,0.0802,0.493,126.421,196493,4,depressed,[0]
+Train Wreck,James Arthur,"['pop', 'talent show', 'uk pop']",0.311,0.485,6,-5.726,0,0.0365,0.701,0.0,0.0726,0.225,77.355,208827,4,depressed,[0]
+It's You,Ali Gatie,['canadian hip hop'],0.732,0.463,11,-6.972,0,0.0287,0.374,0.0,0.194,0.397,95.971,212607,4,depressed,[0]
+Get You The Moon (feat. Snøw),Kina,"['sad lo-fi', 'slowed and reverb']",0.498,0.235,1,-16.541,0,0.188,0.72,0.0,0.144,0.0895,118.917,179080,4,depressed,[0]
+Lonely (with benny blanco),Justin Bieber,"['canadian pop', 'pop']",0.619,0.241,11,-7.102,0,0.046,0.9,0.0,0.116,0.0719,79.461,149190,4,depressed,[0]
+Again,Shiloh Dynasty,"['lo-fi chill', 'sad lo-fi']",0.603,0.204,7,-12.727,0,0.112,0.479,0.0714,0.642,0.71,74.688,157206,5,depressed,[0]
+Happier Than Ever,Billie Eilish,"['art pop', 'pop']",0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,298899,3,depressed,[0]
+Say You Won't Let Go,James Arthur,"['pop', 'talent show', 'uk pop']",0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,211467,4,depressed,[0]
+SAD!,XXXTENTACION,"['emo rap', 'miami hip hop']",0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,166606,4,depressed,[0]
+Falling,Harry Styles,['pop'],0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,240133,4,depressed,[0]
+feel like shit,Tate McRae,"['alt z', 'pop']",0.519,0.383,7,-7.174,1,0.0495,0.572,0.0,0.124,0.157,144.565,203480,4,depressed,[0]
+Let You Down,NF,"['hip hop', 'pop rap']",0.662,0.714,5,-5.68,0,0.121,0.312,0.0,0.179,0.464,147.997,212120,4,depressed,[0]
+Bruises,Lewis Capaldi,"['pop', 'uk pop']",0.736,0.308,4,-7.83,1,0.0677,0.946,0.0,0.186,0.361,111.202,220492,4,depressed,[0]
+Hope,XXXTENTACION,"['emo rap', 'miami hip hop']",0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,4,depressed,[0]
+Control,Zoe Wees,['german pop'],0.603,0.481,4,-4.978,1,0.031,0.646,2.23e-06,0.174,0.0543,113.837,230893,4,depressed,[0]
+July,Noah Cyrus,"['alt z', 'pop']",0.708,0.186,9,-8.953,0,0.042,0.868,0.0,0.0779,0.322,72.541,156106,4,depressed,[0]
+all the kids are depressed,Jeremy Zucker,"['alt z', 'electropop', 'pop']",0.773,0.437,9,-8.281,1,0.0963,0.836,2.42e-05,0.544,0.707,103.861,169973,4,depressed,[0]
+If You Want Love,NF,"['hip hop', 'pop rap']",0.551,0.386,0,-10.22,1,0.132,0.659,0.0,0.125,0.245,116.409,199387,1,depressed,[0]
+All Girls Are The Same,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",0.671,0.529,0,-7.226,1,0.307,0.0769,0.000335,0.0856,0.203,161.989,165820,4,depressed,[0]
+Hope,XXXTENTACION,"['emo rap', 'miami hip hop']",0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,4,depressed,[0]
+Falling Down - Bonus Track,Lil Peep,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",0.669,0.574,4,-6.442,0,0.0286,0.0175,0.00294,0.146,0.273,120.013,196400,4,depressed,[0]
+Suicidal (feat. Juice WRLD) - Remix,YNW Melly,"['melodic rap', 'rap']",0.655,0.441,9,-5.245,0,0.0629,0.474,0.0,0.099,0.273,139.957,225857,4,depressed,[0]
+emotions,iann dior,['melodic rap'],0.63,0.631,9,-6.211,1,0.0396,0.0129,0.0,0.142,0.163,80.512,131213,4,depressed,[0]
+I'm Sorry,Joyner Lucas,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",0.746,0.576,8,-7.461,1,0.414,0.252,0.0,0.074,0.337,110.2,349785,4,depressed,[0]
+Alone,SadBoyProlific,"['sad lo-fi', 'sad rap']",0.874,0.358,9,-13.642,1,0.459,0.494,0.00196,0.336,0.437,119.091,160061,4,depressed,[0]
+I Fall Apart,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",0.556,0.538,8,-5.408,0,0.0382,0.0689,0.0,0.196,0.291,143.95,223347,4,depressed,[0]
+Sad Nibba Hours,Papithbk,"['australian trap', 'sad lo-fi', 'sad rap']",0.745,0.664,11,-5.476,0,0.235,0.322,0.0,0.851,0.526,121.083,150703,5,depressed,[0]
+1-800-273-8255,Logic,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",0.62,0.574,5,-7.788,0,0.0479,0.569,0.0,0.19,0.357,100.023,250173,4,depressed,[0]
+Memory,Promoting Sounds,"['aesthetic rap', 'sad lo-fi']",0.748,0.694,1,-7.616,1,0.0861,0.0616,0.000167,0.331,0.197,115.044,134609,4,depressed,[0]
+Hurt Me,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",0.62,0.451,6,-7.623,1,0.17,0.128,0.0,0.373,0.294,156.906,122285,4,depressed,[0]
+Fuck Love,XXXTENTACION,"['emo rap', 'miami hip hop']",0.797,0.533,0,-9.74,0,0.0412,0.0172,0.000152,0.103,0.329,131.036,146520,4,depressed,[0]
+Life is Beautiful,Lil Peep,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",0.533,0.638,10,-9.411,1,0.0636,0.0385,0.000932,0.0758,0.324,135.056,207587,4,depressed,[0]
+Suicidal,YNW Melly,"['melodic rap', 'rap']",0.735,0.369,9,-9.682,0,0.0688,0.334,0.0,0.126,0.235,140.004,222997,4,depressed,[0]
+Me and My Guitar,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",0.644,0.587,7,-6.736,0,0.353,0.473,0.0,0.0759,0.68,173.972,161765,4,depressed,[0]
+gone girl (feat. Trippie Redd),iann dior,['melodic rap'],0.679,0.714,11,-5.849,1,0.0287,0.15,0.0,0.0684,0.334,94.992,136568,4,depressed,[0]
+Dead and Cold,SadBoyProlific,"['sad lo-fi', 'sad rap']",0.622,0.467,2,-9.889,0,0.568,0.872,2.15e-06,0.0931,0.716,87.967,89625,5,depressed,[0]
+Love Scars,Trippie Redd,"['melodic rap', 'rap', 'trap']",0.654,0.612,9,-7.323,0,0.0528,0.000411,0.0,0.118,0.262,119.218,143969,4,depressed,[0]
+Losing Interest,Papithbk,"['australian trap', 'sad lo-fi', 'sad rap']",0.815,0.321,10,-15.727,0,0.42,0.68,0.0,0.175,0.45,134.042,93360,4,depressed,[0]
+Lovemark,Ouse,"['emo rap', 'sad lo-fi', 'sad rap']",0.808,0.331,5,-13.457,1,0.0557,0.131,0.0,0.225,0.337,140.035,219482,4,depressed,[0]
+Never Be Alright,Seon,"['lo-fi chill', 'sad lo-fi', 'sad rap']",0.835,0.284,7,-10.121,0,0.0778,0.631,3.96e-06,0.102,0.286,86.982,168308,4,depressed,[0]
+Empty,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",0.746,0.561,0,-4.869,1,0.0526,0.0758,0.0,0.132,0.463,77.535,248431,4,depressed,[0]
+Moonlight,XXXTENTACION,"['emo rap', 'miami hip hop']",0.921,0.537,9,-5.723,0,0.0804,0.556,0.00404,0.102,0.711,128.009,135090,4,depressed,[0]
+Computer Crash,Lui Joseph,['sad rap'],0.782,0.52,7,-9.338,0,0.171,0.174,0.0,0.0747,0.495,113.958,169509,4,depressed,[0]
+Mama Cry,YNW Melly,"['melodic rap', 'rap']",0.543,0.492,7,-7.432,1,0.156,0.0739,0.0,0.11,0.107,220.099,231298,4,depressed,[0]
+How Could You Leave Us,NF,"['hip hop', 'pop rap']",0.536,0.708,6,-7.882,1,0.758,0.513,0.0,0.0951,0.09,78.33,322587,4,depressed,[0]
+Cada Motivo,EZVIT 810,['rap espanol'],0.712,0.519,1,-10.247,1,0.187,0.801,0.0,0.104,0.139,125.028,268800,4,depressed,[0]
+Hate Me!,MASN,['sad rap'],0.683,0.628,6,-6.512,1,0.123,0.659,0.0,0.106,0.356,142.06,154757,4,depressed,[0]
+Toxic Waste,Trippie Redd,"['melodic rap', 'rap', 'trap']",0.729,0.516,8,-11.404,1,0.0628,0.0555,1.95e-06,0.107,0.379,111.97,173129,4,depressed,[0]
+Save That Shit,Lil Peep,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",0.534,0.583,2,-8.672,1,0.0288,0.0262,0.0,0.421,0.145,106.0,231547,4,depressed,[0]
+Don't Wanna Breathe,Kodak Black,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",0.709,0.6,8,-7.079,0,0.102,0.282,0.0,0.134,0.345,142.02,196672,4,depressed,[0]
+Walk Away,SadBoyProlific,"['sad lo-fi', 'sad rap']",0.641,0.373,1,-14.13,1,0.44,0.761,0.0,0.0993,0.282,100.268,120189,4,depressed,[0]
+Righteous,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",0.706,0.625,0,-7.426,1,0.0314,0.0417,0.0,0.129,0.225,142.948,242181,4,depressed,[0]
+SAD!,XXXTENTACION,"['emo rap', 'miami hip hop']",0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,166606,4,depressed,[0]
+Laying on my porch while we watch the world end.,Powfu,"['sad lo-fi', 'sad rap']",0.664,0.399,6,-11.661,1,0.0743,0.791,0.0,0.116,0.424,133.904,200602,4,depressed,[0]
+772 Love,YNW Melly,"['melodic rap', 'rap']",0.676,0.623,6,-7.297,0,0.0352,0.226,1.66e-05,0.159,0.347,111.466,209489,4,depressed,[0]
+Lonely Nights,Papithbk,"['australian trap', 'sad lo-fi', 'sad rap']",0.75,0.658,0,-7.662,1,0.514,0.131,0.0,0.105,0.407,99.786,137613,4,depressed,[0]
+CRY,Parker Jack,[],0.676,0.481,1,-11.254,1,0.154,0.836,1.02e-06,0.0982,0.608,152.003,135419,4,depressed,[0]
+Broken,Lund,['emo rap'],0.83,0.583,0,-2.052,1,0.0412,0.0563,0.0005,0.109,0.146,134.0,200673,4,depressed,[0]
+Love Sick,Trippie Redd,"['melodic rap', 'rap', 'trap']",0.864,0.709,6,-6.909,0,0.0984,0.517,5.39e-05,0.623,0.671,119.048,177981,4,depressed,[0]
+witchblades,Lil Peep,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",0.634,0.54,8,-7.002,1,0.0777,0.0223,0.0,0.302,0.543,143.968,149360,4,depressed,[0]
+Garo,LVZ,"['cloud rap francais', 'rap calme']",0.776,0.527,6,-10.488,1,0.0585,0.885,4.18e-05,0.1,0.369,128.076,138750,4,depressed,[0]
+Heartbreak,SadBoyProlific,"['sad lo-fi', 'sad rap']",0.861,0.378,0,-19.649,1,0.304,0.519,8.46e-05,0.128,0.513,139.943,205714,4,depressed,[0]
+Legends,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",0.586,0.82,8,-4.791,0,0.072,0.114,0.0,0.134,0.391,142.107,192036,4,depressed,[0]
+Jocelyn Flores,XXXTENTACION,"['emo rap', 'miami hip hop']",0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,4,depressed,[0]
+Betrayed,Lil Xan,['cloud rap'],0.821,0.434,10,-9.194,0,0.118,0.434,0.0,0.128,0.241,120.012,187173,4,depressed,[0]
+The Way Life Goes (feat. Oh Wonder),Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",0.703,0.757,1,-3.612,1,0.05,0.617,0.0,0.106,0.696,82.008,221747,4,depressed,[0]
+Why Am I Waiting,Papithbk,"['australian trap', 'sad lo-fi', 'sad rap']",0.747,0.387,1,-10.671,1,0.471,0.347,0.0,0.254,0.234,126.054,95680,4,depressed,[0]
+Take It All,Kado,['sad rap'],0.81,0.491,11,-6.953,1,0.0609,0.118,0.0,0.284,0.511,90.524,176405,4,depressed,[0]
+Promised,Macroix,[],0.143,0.000116,0,-37.894,1,0.0916,0.851,0.973,0.109,0.0,140.571,153143,5,sleep,"[0, 0.2]"
+Melancholy,Jonas Sandberg,[],0.175,0.00184,10,-41.3,1,0.0414,0.994,0.956,0.0989,0.147,73.583,179294,4,sleep,"[0, 0.2]"
+My Armour,South Noon,[],0.158,0.00256,10,-45.728,1,0.0427,0.994,0.868,0.108,0.185,135.456,200000,3,sleep,"[0, 0.2]"
+Sakalas,Gabriel Derus,[],0.136,0.0023,7,-39.17,1,0.0406,0.991,0.885,0.122,0.0695,73.821,176786,5,sleep,"[0, 0.2]"
+Spherical,Aiden Gaarder,[],0.191,0.00866,5,-33.943,1,0.0511,0.96,0.966,0.105,0.0319,132.161,175667,3,sleep,"[0, 0.2]"
+Isolate,Mystery Ark,[],0.202,0.00151,7,-45.015,1,0.0424,0.97,0.911,0.123,0.174,67.513,202000,4,sleep,"[0, 0.2]"
+Protect Your Mind,Treasures Meditation Flow,[],0.179,0.00108,11,-43.908,1,0.0319,0.973,0.911,0.102,0.0418,69.71,194000,4,sleep,"[0, 0.2]"
+Aesolace,Pollux Pluto,[],0.144,0.00254,10,-41.545,0,0.0505,0.993,0.964,0.11,0.0697,140.898,181395,4,sleep,"[0, 0.2]"
+Nordic Dusk,Frej Simdo,[],0.131,0.0012,3,-45.385,1,0.0429,0.982,0.965,0.112,0.0375,73.369,192000,1,sleep,"[0, 0.2]"
+Forward Momentum,Ceylan Aydem Project,[],0.139,0.0004,9,-40.151,1,0.0509,0.921,0.966,0.11,0.0338,139.223,167737,3,sleep,"[0, 0.2]"
+Times of Balance,Phobic,[],0.173,0.000887,0,-46.216,1,0.0469,0.976,0.965,0.0969,0.171,69.341,172000,5,sleep,"[0, 0.2]"
+Epica,Ella Watson,[],0.169,0.000108,0,-37.879,1,0.065,0.821,0.973,0.11,0.0,137.687,189643,3,sleep,"[0, 0.2]"
+Tender,St/llar,[],0.146,0.00114,10,-42.893,1,0.0452,0.993,0.942,0.116,0.0605,138.774,183291,3,sleep,"[0, 0.2]"
+Hemisphere,Solis Occasum,[],0.146,0.000737,0,-40.924,1,0.058,0.985,0.955,0.114,0.0395,66.074,182497,5,sleep,"[0, 0.2]"
+Changing,De Janos,[],0.0905,0.000328,0,-38.731,1,0.049,0.878,0.865,0.111,0.0369,88.651,183374,5,sleep,"[0, 0.2]"
+The New World,Cardi Mist,[],0.156,0.00167,9,-44.873,1,0.0411,0.995,0.876,0.0986,0.0782,136.67,194000,3,sleep,"[0, 0.2]"
+Following,Aquilonius,[],0.146,0.000603,4,-36.854,1,0.0462,0.983,0.926,0.101,0.114,70.889,185848,3,sleep,"[0, 0.2]"
+Herinneringen,Sohn Aelia,['sleep'],0.0685,0.00342,0,-37.156,1,0.0418,0.99,0.91,0.106,0.0581,73.644,172357,1,sleep,"[0, 0.2]"
+Scorchio,Maria Botican,[],0.154,0.00166,5,-43.838,1,0.0434,0.991,0.854,0.0962,0.117,136.027,196000,1,sleep,"[0, 0.2]"
+Boundless,Haldur,[],0.159,0.000652,3,-39.345,1,0.059,0.98,0.957,0.11,0.0678,134.9,178993,4,sleep,"[0, 0.2]"
+The Vastness,Iseo Ander,[],0.15,0.000888,0,-39.048,1,0.0491,0.846,0.888,0.112,0.0604,70.317,153720,4,sleep,"[0, 0.2]"
+Mystic Reveries,Felices Sueños,[],0.174,0.000604,4,-39.516,0,0.049,0.941,0.973,0.112,0.187,70.207,189693,3,sleep,"[0, 0.2]"
+Process,iavú,[],0.15,0.000657,1,-44.026,1,0.0476,0.975,0.96,0.109,0.0753,135.129,163616,3,sleep,"[0, 0.2]"
+I Dreamed A Dream,Roofies Dragon,[],0.151,0.00365,5,-43.513,0,0.0372,0.993,0.967,0.108,0.0395,72.523,178968,4,sleep,"[0, 0.2]"
+Whishing star,Artivastix,[],0.14,0.00209,8,-50.051,1,0.0403,0.973,0.872,0.081,0.198,141.606,198000,4,sleep,"[0, 0.2]"
+Snowflake,Amanda Wildt,[],0.177,0.000665,2,-41.729,1,0.102,0.96,0.962,0.128,0.0395,68.8,182667,4,sleep,"[0, 0.2]"
+Tranquillizing,Secret Medicine,[],0.15,0.00129,0,-43.781,1,0.0616,0.994,0.961,0.0925,0.0297,135.708,174550,3,sleep,"[0, 0.2]"
+Reminded Me,Arietis,[],0.147,0.000257,5,-44.316,1,0.0479,0.965,0.965,0.104,0.0366,67.546,165739,3,sleep,"[0, 0.2]"
+Foraoise,Neave Abeline,[],0.223,0.000276,0,-39.806,1,0.0523,0.97,0.968,0.111,0.0411,70.785,145500,1,sleep,"[0, 0.2]"
+Density,Obviame,[],0.148,0.000829,5,-45.213,1,0.0542,0.982,0.971,0.113,0.029,136.298,185487,4,sleep,"[0, 0.2]"
+Languid,Neoline Ewing,[],0.184,0.00213,9,-41.634,1,0.0402,0.968,0.964,0.114,0.157,66.245,183000,1,sleep,"[0, 0.2]"
+Mudita,Gamini Khatri,[],0.168,0.000801,1,-40.928,1,0.0517,0.989,0.942,0.112,0.0359,68.319,156000,3,sleep,"[0, 0.2]"
+Flying Spirits.,Ashlynn Vinno,[],0.141,0.000847,7,-46.052,1,0.0492,0.967,0.93,0.115,0.038,140.062,176000,4,sleep,"[0, 0.2]"
+Dimmed Lights,Nicolaj Stavrenko,[],0.147,0.000279,5,-36.706,1,0.0494,0.964,0.97,0.11,0.033,69.207,166350,3,sleep,"[0, 0.2]"
+Straight Ahead,Garcíia,[],0.152,0.00114,9,-42.663,1,0.0476,0.992,0.958,0.104,0.0661,135.316,176698,5,sleep,"[0, 0.2]"
+Fjord,Reiki Akoya,[],0.0878,0.00185,1,-37.77,1,0.0503,0.973,0.857,0.123,0.0561,85.773,174520,4,sleep,"[0, 0.2]"
+Cwsg,Ymlacio,[],0.147,0.000731,11,-39.109,1,0.0469,0.992,0.844,0.17,0.0633,137.895,168000,3,sleep,"[0, 0.2]"
+Geteilt,Celine Brandt,[],0.149,0.000942,5,-43.074,1,0.049,0.984,0.939,0.106,0.0796,136.532,156000,5,sleep,"[0, 0.2]"
+Coral Dusk,Stellar Serenity,[],0.161,0.00379,7,-34.112,1,0.0476,0.961,0.948,0.11,0.106,136.969,170888,3,sleep,"[0, 0.2]"
+Sumi,Zamphire,[],0.188,0.00239,9,-35.089,1,0.0401,0.959,0.941,0.129,0.06,68.127,160000,4,sleep,"[0, 0.2]"
+Wandering Sadhu,Salen,[],0.064,0.00108,8,-45.487,1,0.042,0.974,0.905,0.0939,0.103,69.486,200000,3,sleep,"[0, 0.2]"
+Noticed,Avieone,[],0.186,0.00264,0,-42.729,1,0.0425,0.977,0.96,0.115,0.0502,70.479,166985,4,sleep,"[0, 0.2]"
+Sweven,Corbin Tellier,[],0.216,0.00203,2,-41.516,1,0.0402,0.986,0.945,0.118,0.0388,70.023,183000,1,sleep,"[0, 0.2]"
+Lo´s Magma,Robi Dixie,[],0.0738,0.00152,9,-46.788,1,0.0361,0.978,0.935,0.124,0.233,69.84,186000,5,sleep,"[0, 0.2]"
+Passages,Kim Nalah,[],0.15,0.002,4,-38.362,1,0.0476,0.976,0.949,0.109,0.0504,135.982,181026,4,sleep,"[0, 0.2]"
+Curved,Lugar,['sleep'],0.348,0.000207,2,-34.733,1,0.174,0.869,0.973,0.112,0.0,138.692,137647,4,sleep,"[0, 0.2]"
+Dream Reflection,Fabio Secci,[],0.142,0.000886,1,-47.784,1,0.0565,0.956,0.93,0.105,0.0335,139.363,200000,5,sleep,"[0, 0.2]"
+Agbaye,Torpor Snooze,[],0.131,0.00108,11,-45.744,1,0.0477,0.967,0.958,0.122,0.0382,144.286,188000,3,sleep,"[0, 0.2]"
+Sincerely,Kelly Petersen,[],0.177,0.000257,0,-39.572,1,0.0843,0.962,0.973,0.111,0.0396,140.841,175035,3,sleep,"[0, 0.2]"
+Aquiver,Chév Asto,[],0.167,0.000203,0,-39.884,1,0.0891,0.973,0.973,0.11,0.338,137.633,230550,5,sleep,"[0, 0.2]"
+Universal Truth,Arush Mandal,['background music'],0.179,0.000246,7,-39.835,1,0.0485,0.948,0.971,0.115,0.0356,134.581,195273,3,sleep,"[0, 0.2]"
+Droplet of Grace,South Noon,[],0.156,0.00183,10,-46.861,1,0.0483,0.98,0.837,0.114,0.126,133.97,186000,3,sleep,"[0, 0.2]"
+Simplicity,Tiara Greenfield,[],0.225,7e-05,0,-37.512,1,0.0669,0.846,0.973,0.114,0.0,137.547,188000,5,sleep,"[0, 0.2]"
+Your Are The Calm,Takhall,[],0.0644,0.00214,9,-47.295,1,0.0432,0.977,0.929,0.0748,0.123,62.378,190000,5,sleep,"[0, 0.2]"
+Before The Full Moon,Isah Atkins,[],0.121,0.00147,5,-47.79,1,0.0429,0.96,0.916,0.0966,0.213,76.157,198000,3,sleep,"[0, 0.2]"
+Drone,Ayala Cola,[],0.144,0.00113,4,-45.203,1,0.0472,0.946,0.973,0.111,0.0333,138.072,191000,3,sleep,"[0, 0.2]"
+Natural Connection,Certificate 16,[],0.145,0.00153,7,-44.248,1,0.0424,0.981,0.936,0.115,0.0913,139.008,208000,3,sleep,"[0, 0.2]"
+Myriad,Merlin Loughty,[],0.146,0.000804,0,-38.814,1,0.0554,0.949,0.973,0.114,0.0319,136.564,185146,3,sleep,"[0, 0.2]"
+Mindvibe,Sir Dejvid,[],0.377,0.000202,0,-38.741,1,0.233,0.988,0.973,0.104,0.0336,139.796,183201,3,sleep,"[0, 0.2]"
+Spiritual,Sleep Cyclone,[],0.0658,0.00232,4,-48.781,1,0.0393,0.965,0.891,0.0687,0.115,69.052,198000,3,sleep,"[0, 0.2]"
+Perdonar,Salina Cardenas,[],0.152,0.000935,3,-40.273,1,0.058,0.991,0.924,0.103,0.0765,135.321,162000,5,sleep,"[0, 0.2]"
+Unavene,Nova Kral,[],0.087,0.00317,8,-40.849,1,0.0433,0.989,0.957,0.108,0.0353,71.7,136667,4,sleep,"[0, 0.2]"
+Infinito,Max Moller,[],0.145,0.00209,10,-43.21,1,0.0504,0.969,0.974,0.11,0.0381,139.556,200000,4,sleep,"[0, 0.2]"
+Amicale,Lenovie,[],0.138,0.00206,4,-42.268,1,0.0407,0.982,0.964,0.109,0.0722,68.067,132000,4,sleep,"[0, 0.2]"
+Drommenes Verden,Casper Bjerke,[],0.14,0.00354,5,-38.668,1,0.0627,0.85,0.877,0.101,0.0365,139.818,199200,1,sleep,"[0, 0.2]"
+Inner Peace,Sabrina McGregor,[],0.127,0.00488,5,-35.14,1,0.0478,0.977,0.828,0.115,0.136,146.626,179222,3,sleep,"[0, 0.2]"
+Arcadia,Elsa Whage,[],0.153,0.00826,7,-40.069,1,0.0377,0.988,0.892,0.0912,0.102,136.058,176455,4,sleep,"[0, 0.2]"
+Currently,Loe Vida,[],0.171,0.000275,4,-41.804,1,0.0499,0.991,0.958,0.113,0.0396,132.423,163011,4,sleep,"[0, 0.2]"
+Haverzh,Iota Psi,[],0.198,0.00143,11,-41.409,1,0.0517,0.989,0.962,0.109,0.102,71.638,187000,5,sleep,"[0, 0.2]"
+Nomad,Hatchlings Calm,[],0.155,0.00209,10,-48.628,1,0.0419,0.978,0.93,0.0783,0.175,135.516,200000,3,sleep,"[0, 0.2]"
+Anochecer,Lyla Perez-Vega,[],0.151,0.00484,7,-40.215,1,0.04,0.985,0.96,0.115,0.0419,136.911,147000,4,sleep,"[0, 0.2]"
+World Beyond,Evolving Stream,[],0.0599,0.000963,0,-38.175,1,0.0528,0.929,0.928,0.113,0.151,67.802,177356,4,sleep,"[0, 0.2]"
+Forms,Zonara,[],0.168,0.00233,2,-38.882,1,0.0467,0.984,0.909,0.135,0.0754,79.621,160957,4,sleep,"[0, 0.2]"
+Perfection,Mundo Suave,[],0.175,0.00245,6,-39.149,1,0.0501,0.964,0.863,0.105,0.0445,79.233,174314,3,sleep,"[0, 0.2]"
+Bywyd,Carwyn,[],0.176,0.000258,0,-39.305,1,0.0539,0.993,0.935,0.0945,0.146,67.545,141000,1,sleep,"[0, 0.2]"
+Momenti,Momenti,[],0.14,0.000276,3,-42.113,1,0.0501,0.992,0.941,0.102,0.0591,139.409,192000,5,sleep,"[0, 0.2]"
+I Believe I Can Fly,Cosmic Cloak,[],0.152,0.00108,0,-46.765,1,0.0458,0.968,0.912,0.0952,0.107,135.611,194000,5,sleep,"[0, 0.2]"
+Evermore,Aari Kumar,[],0.151,0.00655,0,-38.253,1,0.0495,0.976,0.969,0.103,0.0367,137.651,173667,3,sleep,"[0, 0.2]"
+Focused,Anda Mané,[],0.174,0.00233,2,-38.755,1,0.0413,0.992,0.925,0.144,0.0671,70.089,194878,4,sleep,"[0, 0.2]"
+Sundown,Bo Pettri,[],0.145,0.00134,9,-45.387,1,0.0393,0.99,0.9,0.0947,0.144,140.393,188000,3,sleep,"[0, 0.2]"
+Within Reach,Unwritten Skies,['sleep'],0.15,0.000155,2,-38.381,1,0.0588,0.906,0.967,0.111,0.0,139.14,135724,4,sleep,"[0, 0.2]"
+Calm Restore,Cornelia Benton,[],0.0922,0.000143,2,-39.869,1,0.0758,0.955,0.972,0.161,0.0592,69.64,188827,3,sleep,"[0, 0.2]"
+Merikarp,Fabien Tamm,[],0.19,0.00196,5,-37.911,1,0.0503,0.989,0.926,0.119,0.186,68.487,154499,5,sleep,"[0, 0.2]"
+More Than Words,Emeli Saga,[],0.0825,0.00745,9,-38.465,1,0.0417,0.976,0.951,0.105,0.0541,70.393,162424,4,sleep,"[0, 0.2]"
+Wholeness,Monet Benitez,[],0.115,0.00211,7,-40.019,1,0.0479,0.993,0.942,0.131,0.0787,73.226,158571,3,sleep,"[0, 0.2]"
+Sehnsucht,Tilman Stoiber,[],0.145,0.0142,11,-37.524,1,0.0353,0.977,0.904,0.104,0.0487,69.169,170606,4,sleep,"[0, 0.2]"
+Codladh,Cadhla Byrne,[],0.19,0.0022,0,-39.536,1,0.0425,0.987,0.925,0.108,0.0434,68.995,164000,5,sleep,"[0, 0.2]"
+Calming Quality,Auxelia,[],0.15,0.0011,1,-40.823,1,0.0511,0.985,0.966,0.159,0.0337,135.845,198214,3,sleep,"[0, 0.2]"
+Feelings,Avieone,[],0.214,0.000571,9,-39.851,0,0.0498,0.992,0.968,0.11,0.038,67.683,155931,3,sleep,"[0, 0.2]"
+Cloud Gazing,Sleepy Clouds,['sleep'],0.0653,0.000263,8,-35.126,1,0.0541,0.976,0.851,0.112,0.296,32.477,167947,3,sleep,"[0, 0.2]"
+Unistades,Eyla Calmes,['sleep'],0.144,0.00324,8,-40.161,1,0.041,0.986,0.956,0.105,0.0313,139.52,165000,4,sleep,"[0, 0.2]"
+Oroitzapenak,Leona Montoya,[],0.108,0.00103,4,-40.77,0,0.0426,0.99,0.959,0.115,0.211,69.993,145000,3,sleep,"[0, 0.2]"
+Aureole,Parker Woods,[],0.246,0.000581,11,-39.247,1,0.0442,0.982,0.949,0.116,0.0846,71.659,155000,3,sleep,"[0, 0.2]"
+Chia,Marcus Rivero,[],0.154,0.00162,5,-44.345,1,0.039,0.982,0.901,0.0901,0.0967,71.627,184000,4,sleep,"[0, 0.2]"
+Pulsar Calm,Leon Baker,[],0.0716,0.00246,1,-44.932,1,0.0416,0.978,0.918,0.0838,0.158,69.532,178500,4,sleep,"[0, 0.2]"
+All Along,Tegan Riley,[],0.101,0.00193,10,-38.381,1,0.0393,0.98,0.96,0.0925,0.209,70.774,147857,5,sleep,"[0, 0.2]"
+Imaginar,Chiara Nieves,[],0.163,0.000262,10,-39.044,1,0.0465,0.979,0.952,0.112,0.0341,72.2,144000,5,sleep,"[0, 0.2]"
+Midnight Is Coming,Löve,[],0.121,0.00107,4,-41.949,1,0.0399,0.965,0.926,0.0895,0.151,68.988,178500,5,sleep,"[0, 0.2]"
+Samadhi,Isah Atkins,[],0.0827,0.001,7,-44.029,1,0.0457,0.973,0.845,0.131,0.0783,170.615,204000,3,sleep,"[0, 0.2]"
+Center of Attention,Angelo Garnier,[],0.144,0.00391,2,-39.722,1,0.0432,0.992,0.729,0.113,0.138,139.86,206250,3,sleep,"[0, 0.2]"
