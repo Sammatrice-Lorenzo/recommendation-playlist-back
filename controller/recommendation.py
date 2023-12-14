@@ -29,7 +29,6 @@ class Recommendation:
                 movement_to_numpy.append(list(movement.values()))
 
             movement_to_numpy: np = np.array(movement_to_numpy)
-            print(movement_to_numpy)
 
             playlist_user: pd.DataFrame = recommend_playlist(movement_to_numpy, data)
 
@@ -51,6 +50,5 @@ class Recommendation:
 
             return flask.jsonify(playlist_returned), 200
         except Exception as e:
-            print("Error:", str(e))
 
             return flask.jsonify({'Une erreur est survenue': str(e)}), 500
