@@ -9,7 +9,7 @@ with warnings.catch_warnings():
 
 data = pd.read_csv('data/train_data.csv')
 
-def get_pourcentage_movement(count_movement: int, total_movement: int, count_not_movement: int) -> float:
+def get_pourcentage_movement(count_movement: int, total_movement: int, count_not_movement: int) -> float | int:
     returned_value = 0
 
     if total_movement == 0:
@@ -31,8 +31,11 @@ def get_pourcentage_movement(count_movement: int, total_movement: int, count_not
 
     return returned_value
 
-def mouvement_user(data_mouvement: np) -> float:
-    # Model de kaggle https://www.kaggle.com/datasets/vmalyi/run-or-walk
+def mouvement_user(data_mouvement: np) -> float | int:
+    '''
+        Model de kaggle https://www.kaggle.com/datasets/vmalyi/run-or-walk \n
+        https://www.kaggle.com/code/abhishekgupta0695/walk-run-classification-accuracy-99
+    '''
     with open('ModelPositionMovement/ModelRunOrWalk', 'rb') as file:
         model_mouvement_user = pickle.load(file)
 
@@ -50,8 +53,7 @@ def mouvement_user(data_mouvement: np) -> float:
     return get_pourcentage_movement(count_movement, total_mouvements, count_not_movement)
 
 def recommend_playlist(data_movement: np, data: DataFrame) -> DataFrame:
-    user_movement: float = mouvement_user(data_movement)
-    print(user_movement)
+    user_movement: float | int = mouvement_user(data_movement)
 
     recommended_playlists: list = []
     if user_movement == 1:
@@ -66,14 +68,3 @@ def recommend_playlist(data_movement: np, data: DataFrame) -> DataFrame:
     recommended_playlists = recommended_playlists[['name', 'artist', 'type']]
 
     return recommended_playlists.sample(n=10)
-
-# data_run = pd.read_csv('data/dataset_mouvement.csv').iloc[1:756, 5:11]
-data_run = pd.read_csv('data/dataset_movement.csv').iloc[756:808, 5:11]
-# data_run = pd.read_csv('data/dataset_movement.csv').iloc[756:1556, 5:11]
-
-# print(data_run.to_json())
-
-data_run = data_run.to_numpy()
-# print(data_run)
-
-# print(recommend_playlist(data_movement=data_run, data=data))
